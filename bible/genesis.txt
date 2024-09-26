@@ -421,6 +421,4 @@ Vulgate: Genesis
  
  
 	 The Bible 
-	 Christian Latin 
-	 The Latin Library 
-	 The Classics Page
+	 
