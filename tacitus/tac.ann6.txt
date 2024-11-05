@@ -1,4 +1,4 @@
-Tacitus: Annales VI
+# Tacitus: Annales VI
 		 
 
 		 
@@ -7,73 +7,14 @@ Tacitus: Annales VI
 	
  
 
- P. CORNELI TACITI ANNALIVM LIBER SEXTVS
+## P. CORNELI TACITI ANNALIVM LIBER SEXTVS
  
 
  
 
- 
-	 5.6 
-	 5.7 
-	 5.8 
-	 5.9 
-	 5.10 
-	 5.11 
-	 6.1 
-	 6.2 
-	 6.3 
-	 6.4 
-	 6.5 
-	 6.6 
-	 6.7 
-	 6.8 
-	 6.9 
-	 6.10 
-	 6.11 
-	 6.12 
-	 6.13 
-	 6.14 
-	 6.15 
-	 6.16 
-	 6.17 
-	 6.18 
-	 6.19 
-	 6.20 
-	 6.21 
-	 6.22 
-	 6.23 
-	 6.24 
-	 6.25 
-	 6.26 
-	 6.27 
-	 6.28 
-	 6.29 
-	 6.30 
-	 6.31 
-	 6.32 
-	 6.33 
-	 6.34 
-	 6.35 
-	 6.36 
-	 6.37 
-	 6.38 
-	 6.39 
-	 6.40 
-	 6.41 
-	 6.42 
-	 6.43 
-	 6.44 
-	 6.45 
-	 6.46 
-	 6.47 
-	 6.48 
-	 6.49 
-	 6.50 
-	 6.51 
- 
- 
- 
-[ 5.6 ] . . . Quattuor et quadraginta orationes super ea re habitae, ex quis ob metum paucae, plures
+### [ 5.6 ] 
+
+. . . Quattuor et quadraginta orationes super ea re habitae, ex quis ob metum paucae, plures
 adsuetudine . . . . . . 'mihi pudorem aut Seiano invidiam adlaturum censui. versa est fortuna et ille quidem
 qui collegam et generum adsciverat sibi ignoscit: ceteri quem per dedecora fovere cum scelere insectantur.
 miserius sit ob amicitiam accusari an amicum accusare haud discreverim. non crudelitatem, non
@@ -83,14 +24,18 @@ mala effugerunt.'
  
 
  
-[ 5.7 ] Tunc singulos, ut cuique adsistere, adloqui animus erat, retinens aut dimittens partem diei
+### [ 5.7 ] 
+
+Tunc singulos, ut cuique adsistere, adloqui animus erat, retinens aut dimittens partem diei
 absumpsit, multoque adhuc coetu et cunctis intrepidum vultum eius spectantibus, cum superesse tempus
 novissimis crederent, gladio quem sinu abdiderat incubuit. neque Caesar ullis criminibus aut probris
 defunctum insectatus est, cum in Blaesum multa foedaque incusavisset.
  
 
  
-[ 5.8 ] Relatum inde de P. Vitellio et Pomponio Secundo. illum indices arguebant claustra aerarii, cui
+### [ 5.8 ] 
+
+Relatum inde de P. Vitellio et Pomponio Secundo. illum indices arguebant claustra aerarii, cui
 praefectus erat, et militarem pecuniam rebus novis obtulisse; huic a Considio praetura functo obiectabatur
 Aelii Galli amicitia, qui punito Seiano in hortos Pomponii quasi fidissimum ad sub sidium perfugisset.
 neque aliud periclitantibus auxilii quam in fratrum constantia fuit qui vades extitere. mox crebris
@@ -100,7 +45,9 @@ dum adversam fortunam aequus tolerat, Tiberio superstes fuit.
  
 
  
-[ 5.9 ] Placitum posthac ut in reliquos Seiani liberos adverteretur, vanescente quamquam plebis ira ac
+### [ 5.9 ] 
+
+Placitum posthac ut in reliquos Seiani liberos adverteretur, vanescente quamquam plebis ira ac
 plerisque per priora supplicia lenitis. igitur portantur in carcerem, filius imminentium intellegens, puella
 adeo nescia ut crebro interrogaret quod ob delictum et quo traheretur; neque facturam ultra et posse se
 puerili verbere moneri. tradunt temporis eius auctores, quia triumvirali supplicio adfici virginem inauditum
@@ -109,7 +56,9 @@ abiecta.
  
 
  
-[ 5.10 ] Per idem tempus Asia atque Achaia exterritae sunt acri magis quam diuturno rumore,
+### [ 5.10 ] 
+
+Per idem tempus Asia atque Achaia exterritae sunt acri magis quam diuturno rumore,
 Drusum Germanici filium apud Cycladas insulas mox in continenti visum. et erat iuvenis haud dispari
 aetate, quibusdam Caesaris libertis velut adgnitus; per dolumque comitantibus adliciebantur ignari fama
 nominis et promptis Graecorum animis ad nova et mira: quippe elapsum custodiae pergere ad paternos
@@ -124,7 +73,9 @@ eius rei ultra comperimus.
  
 
  
-[ 5.11 ] Exitu anni diu aucta discordia consulum erupit. nam Trio, facilis capessendis inimicitiis et
+### [ 5.11 ] 
+
+Exitu anni diu aucta discordia consulum erupit. nam Trio, facilis capessendis inimicitiis et
 foro exercitus, ut segnem Regulum ad opprimendos Seiani ministros oblique perstrinxerat: ille nisi
 lacesseretur modestiae retinens non modo rettudit collegam sed ut noxium coniurationis ad disquisitionem
 trahebat. multisque patrum orantibus ponerent odia in perniciem itura, mansere infensi ac minitantes donec
@@ -132,7 +83,9 @@ magistratu abirent.
  
 
  
-[ 6.1 ] Cn. Domitius et Camillus Scribonianus consulatum inierant, cum Caesar tramisso quod
+### [ 6.1 ] 
+
+Cn. Domitius et Camillus Scribonianus consulatum inierant, cum Caesar tramisso quod
 Capreas et Surrentum interluit freto Campaniam praelegebat, ambiguus an urbem intraret, seu, quia contra
 destinaverat, speciem venturi simulans. et saepe in propinqua degressus, aditis iuxta Tiberim hortis, saxa
 rursum et solitudinem maris repetiit pudore scelerum et libidinum quibus adeo indomitis exarserat ut more
@@ -144,7 +97,9 @@ parens, vim raptus suaque ipsi libita velut in captos exercebant.
  
 
  
-[ 6.2 ] At Romae principio anni, quasi recens cognitis Liviae flagitiis ac non pridem etiam punitis,
+### [ 6.2 ] 
+
+At Romae principio anni, quasi recens cognitis Liviae flagitiis ac non pridem etiam punitis,
 atroces sententiae dicebantur in effigies quoque ac memoriam eius et bona Seiani ablata aerario ut in
 fiscum cogerentur, tamquam referret. Scipiones haec et Silani et Cassii isdem ferme aut paulum immutatis
 verbis adseveratione multa censebant, cum repente Togonius Gallus, dum ignobilitatem suam magnis
@@ -158,7 +113,9 @@ adversus Togonium verbis moderans neque ultra abolitionem sententiae suaderet.
  
 
  
-[ 6.3 ] At Iunium Gallionem qui censuerat ut praetoriani actis stipendiis ius apiscerentur in
+### [ 6.3 ] 
+
+At Iunium Gallionem qui censuerat ut praetoriani actis stipendiis ius apiscerentur in
 quattuordecim ordinibus sedendi violenter increpuit, velut coram rogitans quid illi cum militibus quos neque
 dicta imperatoris neque praemia nisi ab imperatore accipere par esset. repperisse prorsus quod divus
 Augustus non providerit: an potius discordiam et seditionem a satellite quaesitam, qua rudis animos nomine
@@ -171,7 +128,9 @@ concepta pridem odia et summum supplicium decernebatur ni professus indicium for
  
 
  
-[ 6.4 ] Ut vero Latinium Latiarem ingressus est, accusator ac reus iuxta invisi gratissimum
+### [ 6.4 ] 
+
+Ut vero Latinium Latiarem ingressus est, accusator ac reus iuxta invisi gratissimum
 spectaculum praebebantur. Latiaris, ut rettuli, praecipuus olim circumveniendi Titii Sabini et tunc luendae
 poenae primus fuit. inter quae Haterius Agrippa consules anni prioris invasit, cur mutua accusatione
 intenta nunc silerent: metum prorsus et noxae conscientiam pro foedere haberi; at non patribus reticenda
@@ -184,7 +143,9 @@ inlustribus viris perniciem inter ganeam ac stupra meditabatur.
  
 
  
-[ 6.5 ] Exim Cotta Messalinus, saevissimae cuiusque sen tentiae auctor eoque inveterata invidia, ubi
+### [ 6.5 ] 
+
+Exim Cotta Messalinus, saevissimae cuiusque sen tentiae auctor eoque inveterata invidia, ubi
 primum facultas data arguitur pleraque C. Caesarem quasi incestae virilitatis, et cum die natali
 Augustae inter sacerdotes epularetur, novendialem eam cenam dixisse; querensque de potentia M'. Lepidi
 ac L. Arruntii, cum quibus ob rem pecuniariam disceptabat, addidisse: 'illos quidem senatus, me autem
@@ -195,7 +156,9 @@ convivalium fabularum simplicitas in crimen duceretur postulavit.
  
 
  
-[ 6.6 ] Insigne visum est earum Caesaris litterarum initium; nam his verbis exorsus est: 'quid scribam
+### [ 6.6 ] 
+
+Insigne visum est earum Caesaris litterarum initium; nam his verbis exorsus est: 'quid scribam
 vobis, patres conscripti, aut quo modo scribam aut quid omnino non scribam hoc tempore, di me deaeque
 peius perdant quam perire me cotidie sentio, si scio.' adeo facinora atque flagitia sua ipsi quoque in
 supplicium verterant. neque frustra praestantissimus sapientiae firmare solitus est, si recludantur
@@ -205,7 +168,9 @@ pectoris suasque ipse poenas fateretur.
  
 
  
-[ 6.7 ] Tum facta patribus potestate statuendi de Caeciliano senatore qui plurima adversum Cottam
+### [ 6.7 ] 
+
+Tum facta patribus potestate statuendi de Caeciliano senatore qui plurima adversum Cottam
 prompserat, placitum eandem poenam inrogari quam in Aruseium et Sanquinium, accusatores L. Arruntii:
 quo non aliud honorificentius Cottae evenit, qui nobilis quidem set egens ob luxum, per flagitia infamis,
 sanctissimis Arruntii artibus dignitate ultionis aequabatur. Q. Servaeus posthac et Minucius Thermus
@@ -223,7 +188,9 @@ lecturos adficerent verentur: nobis pleraque digna cognitu obvenere, quamquam ab
  
 
  
-[ 6.8 ] Nam ea tempestate qua Seiani amicitiam ceteri falso exuerant ausus est eques Romanus M.
+### [ 6.8 ] 
+
+Nam ea tempestate qua Seiani amicitiam ceteri falso exuerant ausus est eques Romanus M.
 Terentius, ob id reus, amplecti, ad hunc modum apud senatum ordiendo: 'fortunae quidem meae fortasse
 minus expediat adgnoscere crimen quam abnuere: sed utcumque casura res est, fatebor et fuisse me Seiano
 amicum et ut essem expetisse et postquam adeptus eram laetatum. videram collegam patris regendis
@@ -244,7 +211,9 @@ et nos absolverit.'
  
 
  
-[ 6.9 ] Constantia orationis et quia repertus erat qui efferret quae omnes animo agitabant eo usque
+### [ 6.9 ] 
+
+Constantia orationis et quia repertus erat qui efferret quae omnes animo agitabant eo usque
 potuere ut accusatores eius, additis quae ante deliquerant, exilio aut morte multarentur. Secutae dehinc
 Tiberii litterae in Sex. Vistilium praetorium, quem Druso fratri percarum in cohortem suam transtulerat.
 causa offensionis Vistilio fuit, seu composuerat quaedam in Gaium Caesarem ut impudicum, sive ficto
@@ -258,7 +227,9 @@ senatu nosceret distulit, datis quibusdam in Scaurum tristibus notis.
  
 
  
-[ 6.10 ] Ne feminae quidem exsortes periculi. quia occu pandae rei publicae argui non poterant, ob
+### [ 6.10 ] 
+
+Ne feminae quidem exsortes periculi. quia occu pandae rei publicae argui non poterant, ob
 lacrimas incusabantur; necataque est anus Vitia, Fufii Gemini mater, quod filii necem flevisset. haec apud
 senatum: nec secus apud principem Vescularius Flaccus ac Iulius Marinus ad mortem aguntur, e
 vetustissimis familiarium, Rhodum secuti et apud Capreas individui, Vescularius insidiarum in Libonem
@@ -271,7 +242,9 @@ mire temperavit.
  
 
  
-[ 6.11 ] Namque antea profectis domo regibus ac mox magistratibus, ne urbs sine imperio foret in
+### [ 6.11 ] 
+
+Namque antea profectis domo regibus ac mox magistratibus, ne urbs sine imperio foret in
 tempus deligebatur qui ius redderet ac subitis mederetur; feruntque ab Romulo Dentrem Romulium, post ab
 Tullo Hostilio Numam Marcium et ab Tarquinio Superbo Spurium Lucretium impositos. dein consules
 mandabant; duratque simulacrum quoties ob ferias Latinas praeficitur qui consulare munus usurpet.
@@ -284,7 +257,9 @@ decreto senatus celebratus est.
  
 
  
-[ 6.12 ] Relatum inde ad patres a Quintiliano tribuno plebei de libro Sibullae, quem Caninius Gallus
+### [ 6.12 ] 
+
+Relatum inde ad patres a Quintiliano tribuno plebei de libro Sibullae, quem Caninius Gallus
 quindecimvirum recipi inter ceteros eiusdem vatis et ea de re senatus consultum postulaverat. quo per
 discessionem facto misit litteras Caesar, modice tribunum increpans ignarum antiqui moris ob iuventam.
 Gallo exprobrabat quod scientiae caerimoniarumque vetus incerto auctore ante sententiam collegii, non, ut
@@ -297,7 +272,9 @@ potuissent vera discernere. igitur tunc quoque notioni quindecimvirum is liber s
  
 
  
-[ 6.13 ] Isdem consulibus gravitate annonae iuxta seditionem ventum multaque et pluris per dies in
+### [ 6.13 ] 
+
+Isdem consulibus gravitate annonae iuxta seditionem ventum multaque et pluris per dies in
 theatro licentius efflagitata quam solitum adversum imperatorem. quis commotus incusavit magistratus
 patresque quod non publica auctoritate populum coercuissent addiditque quibus ex provinciis et quanto
 maiorem quam Augustus rei frumentariae copiam advectaret. ita castigandae plebi compositum senatus
@@ -306,7 +283,9 @@ superbiam accipiebatur.
  
 
  
-[ 6.14 ] Fine anni Geminius, Celsus, Pompeius, equites Romani, cecidere coniurationis crimine; ex
+### [ 6.14 ] 
+
+Fine anni Geminius, Celsus, Pompeius, equites Romani, cecidere coniurationis crimine; ex
 quis Geminius prodigentia opum ac mollitia vitae amicus Seiano, nihil ad serium. et Iulius Celsus tribunus
 in vinclis laxatam catenam et circumdatam in diversum tendens suam ipse cervicem perfregit. at Rubrio
 Fabato, tamquam desperatis rebus Romanis Parthorum ad misericordiam fugeret, custodes additi. sane is
@@ -315,7 +294,9 @@ peregrinationis adferebat: mansit tamen incolumis oblivione magis quam clementia
  
 
  
-[ 6.15 ] Ser. Galba L. Sulla consulibus diu quaesito quos neptibus suis maritos destinaret Caesar,
+### [ 6.15 ] 
+
+Ser. Galba L. Sulla consulibus diu quaesito quos neptibus suis maritos destinaret Caesar,
 postquam instabat virginum aetas, L. Cassium, M. Vinicium legit. Vinicio oppidanum genus: Calibus
 ortus, patre atque avo consularibus, cetera equestri familia erat, mitis ingenio et comptae facundiae.
 Cassius plebeii Romae generis, verum antiqui honoratique, et severa patris disciplina eductus facilitate
@@ -328,7 +309,9 @@ itineribus ambiens patriam et declinans.
  
 
  
-[ 6.16 ] Interea magna vis accusatorum in eos inrupit qui pecunias faenore auctitabant adversum
+### [ 6.16 ] 
+
+Interea magna vis accusatorum in eos inrupit qui pecunias faenore auctitabant adversum
 legem dictatoris Caesaris qua de modo credendi possidendique intra Italiam caventur, omissam olim, quia
 privato usui bonum publicum postponitur. sane vetus urbi faenebre malum et seditionum discordiarumque
 creberrima causa eoque cohibebatur antiquis quoque et minus corruptis moribus. nam primo duodecim
@@ -341,7 +324,9 @@ dati quis secundum iussa legis rationes familiaris quisque componerent.
  
 
  
-[ 6.17 ] Hinc inopia rei nummariae, commoto simul omnium aere alieno, et quia tot damnatis bonisque
+### [ 6.17 ] 
+
+Hinc inopia rei nummariae, commoto simul omnium aere alieno, et quia tot damnatis bonisque
 eorum divenditis signatum argentum fisco vel aerario attinebatur. ad hoc senatus praescripserat, duas
 quisque faenoris partis in agris per Italiam conlocaret. sed creditores in solidum appellabant nec decorum
 appellatis minuere fidem. ita primo concursatio et preces, dein strepere praetoris tribunal, eaque quae
@@ -354,7 +339,9 @@ emptio agrorum exercita ad formam senatus consulti, acribus, ut ferme talia, ini
  
 
  
-[ 6.18 ] Dein redeunt priores metus postulato maiestatis Considio Proculo; qui nullo pavore diem
+### [ 6.18 ] 
+
+Dein redeunt priores metus postulato maiestatis Considio Proculo; qui nullo pavore diem
 natalem celebrans raptus in curiam pariterque damnatus interfectusque, et sorori eius Sanciae aqua atque
 igni interdictum accusante Q. Pomponio. is moribus inquies haec et huiusce modi a se factitari praetendebat
 ut parta apud principem gratia periculis Pomponii Secundi fratris mederetur. etiam in Pompeiam Macrinam
@@ -365,7 +352,9 @@ quodque defuncto Theophani caelestis honores Graeca adulatio tribuerat.
  
 
  
-[ 6.19 ] Post quos Sex. Marius Hispaniarum ditissimus defertur incestasse filiam et saxo Tarpeio
+### [ 6.19 ] 
+
+Post quos Sex. Marius Hispaniarum ditissimus defertur incestasse filiam et saxo Tarpeio
 deicitur. ac ne dubium haberetur magnitudinem pecuniae malo vertisse, aurariasque eius,
 quamquam publicarentur, sibimet Tiberius seposuit. inritatusque suppliciis cunctos qui carcere attinebantur
 accusati societatis cum Seiano necari iubet. iacuit immensa strages, omnis sexus, omnis aetas, inlustres
@@ -376,7 +365,9 @@ sortis humanae commercium vi metus, quantumque saevitia glisceret, miseratio arc
  
 
  
-[ 6.20 ] Sub idem tempus G. Caesar, discedenti Capreas avo comes, Claudiam, M. Silani filiam,
+### [ 6.20 ] 
+
+Sub idem tempus G. Caesar, discedenti Capreas avo comes, Claudiam, M. Silani filiam,
 coniugio accepit, immanem animum subdola modestia tegens, non damnatione matris, non exitio fratrum
 rupta voce; qualem diem Tiberius induisset, pari habitu, haud multum distantibus verbis. unde mox scitum
 Passieni oratoris dictum percrebuit neque meliorem umquam servum neque deteriorem dominum fuisse.
@@ -387,7 +378,9 @@ otium apud Rhodum, magistrum Thrasullum habuit, peritiam eius hoc modo expertus.
  
 
  
-[ 6.21 ] Quotiens super tali negotio consultaret, edita domus parte ac liberti unius conscientia utebatur.
+### [ 6.21 ] 
+
+Quotiens super tali negotio consultaret, edita domus parte ac liberti unius conscientia utebatur.
 is litterarum ignarus, corpore valido, per avia ac derupta (nam saxis domus imminet) praeibat eum cuius
 artem experiri Tiberius statuisset et regredientem, si vanitatis aut fraudum suspicio incesserat, in subiectum
 mare praecipitabat ne index arcani existeret. igitur Thrasullus isdem rupibus inductus postquam
@@ -400,7 +393,9 @@ intimos amicorum tenet.
  
 
  
-[ 6.22 ] Sed mihi haec ac talia audienti in incerto iudicium est fatone res mortalium et necessitate
+### [ 6.22 ] 
+
+Sed mihi haec ac talia audienti in incerto iudicium est fatone res mortalium et necessitate
 immutabili an forte volvantur. quippe sapientissimos veterum quique sectam eorum aemulatur diversos
 reperies, ac multis insitam opinionem non initia nostri, non finem, non denique homines dis curae; ideo
 creberrime tristia in bonos, laeta apud deteriores esse. contra alii fatum quidem congruere rebus putant, sed
@@ -415,7 +410,9 @@ abierim.
  
 
  
-[ 6.23 ] Isdem consulibus Asinii Galli mors vulgatur, quem egestate cibi peremptum haud dubium,
+### [ 6.23 ] 
+
+Isdem consulibus Asinii Galli mors vulgatur, quem egestate cibi peremptum haud dubium,
 sponte vel necessitate incertum habebatur. consultusque Caesar an sepeliri sineret, non erubuit permittere
 ultroque incusare casus qui reum abstulissent antequam coram convinceretur: scilicet medio triennio
 defuerat tempus subeundi iudicium consulari seni, tot consularium parenti. Drusus deinde extinguitur, cum
@@ -426,7 +423,9 @@ conciliaretur Caesar, saevitiam quam paenitentiam maluit.
  
 
  
-[ 6.24 ] Quin et invectus in defunctum probra corporis, exitiabilem in suos, infensum rei publicae
+### [ 6.24 ] 
+
+Quin et invectus in defunctum probra corporis, exitiabilem in suos, infensum rei publicae
 animum obiecit recitarique factorum dictorumque eius descripta per dies iussit, quo non aliud atrocius
 visum: adstitisse tot per annos, qui vultum, gemitus, occultum etiam murmur exciperent, et potuisse avum
 audire, legeret, in publicum promere vix fides, nisi quod Attii centurionis et Didymi liberti epistulae
@@ -441,7 +440,9 @@ servorum ictus extrema vitae alimenta frustra orantem.
  
 
  
-[ 6.25 ] Nondum is dolor exoleverat, cum de Agrippina auditum, quam interfecto Seiano spe
+### [ 6.25 ] 
+
+Nondum is dolor exoleverat, cum de Agrippina auditum, quam interfecto Seiano spe
 sustentatam provixisse reor, et postquam nihil de saevitia remittebatur, voluntate extinctam, nisi si negatis
 alimentis adsimulatus est finis qui videretur sponte sumptus. enimvero Tiberius foedissimis criminationibus
 exarsit, impudicitiam arguens et Asinium Gallum adulterum, eiusque morte ad taedium vitae compulsam.
@@ -452,7 +453,9 @@ decimum kal. Novembris, utriusque necis die, per omnis annos donum Iovi sacraret
  
 
  
-[ 6.26 ] Haud multo post Cocceius Nerva, continuus principi, omnis divini humanique iuris sciens,
+### [ 6.26 ] 
+
+Haud multo post Cocceius Nerva, continuus principi, omnis divini humanique iuris sciens,
 integro statu, corpore inlaeso, moriendi consilium cepit. quod ut Tiberio cognitum, adsidere, causas
 requirere, addere preces, fateri postremo grave conscientiae, grave famae suae, si proximus amicorum
 nullis moriendi rationibus vitam fugeret. aversatus sermonem Nerva abstinentiam cibi coniunxit. ferebant
@@ -464,7 +467,9 @@ sua manu sera magis quam immerita supplicia persolvit.
  
 
  
-[ 6.27 ] Tot luctibus funesta civitate pars maeroris fuit quod Iulia Drusi filia, quondam Neronis uxor,
+### [ 6.27 ] 
+
+Tot luctibus funesta civitate pars maeroris fuit quod Iulia Drusi filia, quondam Neronis uxor,
 denupsit in domum Rubellii Blandi, cuius avum Tiburtem equitem Romanum plerique meminerant. extremo
 anni mors Aelii Lamiae funere censorio celebrata, qui administrandae Syriae imagine tandem exolutus urbi
 praefuerat. genus illi decorum, vivida senectus; et non permissa provincia dignationem addiderat. exim
@@ -477,7 +482,9 @@ civium, et qui eadem familia corruptis moribus, inlustri tamen fortuna egere.
  
 
  
-[ 6.28 ] Paulo Fabio L. Vitellio consulibus post longum saeculorum ambitum avis phoenix in
+### [ 6.28 ] 
+
+Paulo Fabio L. Vitellio consulibus post longum saeculorum ambitum avis phoenix in
 Aegyptum venit praebuitque materiem doctissimis indigenarum et Graecorum multa super eo miraculo
 disserendi. de quibus congruunt et plura ambigua, sed cognitu non absurda promere libet. sacrum Soli id
 animal et ore ac distinctu pinnarum a ceteris avibus diversum consentiunt qui formam eius effinxere: de
@@ -495,7 +502,9 @@ ambigitur.
  
 
  
-[ 6.29 ] At Romae caede continua Pomponius Labeo, quem praefuisse Moesiae rettuli, per abruptas
+### [ 6.29 ] 
+
+At Romae caede continua Pomponius Labeo, quem praefuisse Moesiae rettuli, per abruptas
 venas sanguinem effudit; aemulataque est coniunx Paxaea. nam promptas eius modi mortes metus
 carnificis faciebat, et quia damnati publicatis bonis sepultura prohibebantur, eorum qui de se statuebant
 humabantur corpora, manebant testamenta, pretium festinandi. sed Caesar missis ad senatum litteris
@@ -511,7 +520,9 @@ mortis et particeps fuit.
  
 
  
-[ 6.30 ] Ac tamen accusatores, si facultas incideret, poenis adficiebantur, ut Servilius Corneliusque
+### [ 6.30 ] 
+
+Ac tamen accusatores, si facultas incideret, poenis adficiebantur, ut Servilius Corneliusque
 perdito Scauro famosi, quia pecuniam a Vario Ligure omittendae delationis ceperant, in insulas interdicto
 igni atque aqua demoti sunt. et Abudius Ruso functus aedilitate, dum Lentulo Gaetulico, sub quo legioni
 praefuerat, periculum facessit quod is Seiani filium generum destinasset, ultro damnatur atque urbe
@@ -527,7 +538,9 @@ aetatem magisque fama quam vi stare res suas.
  
 
  
-[ 6.31 ] C. Cestio M. Servilio consulibus nobiles Parthi in urbem venere, ignaro rege Artabano. is
+### [ 6.31 ] 
+
+C. Cestio M. Servilio consulibus nobiles Parthi in urbem venere, ignaro rege Artabano. is
 metu Germanici fidus Romanis, aequabilis in suos, mox superbiam in nos, saevitiam in popularis sumpsit,
 fretus bellis quae secunda adversum circumiectas nationes exercuerat, et senectutem Tiberii ut inermem
 despiciens avidusque Armeniae, cui defuncto rege Artaxia Arsacen liberorum suorum veterrimum imposuit,
@@ -542,7 +555,9 @@ cerneretur.
  
 
  
-[ 6.32 ] Cupitum id Tiberio: ornat Phraaten accingitque paternum ad fastigium, destinata retinens,
+### [ 6.32 ] 
+
+Cupitum id Tiberio: ornat Phraaten accingitque paternum ad fastigium, destinata retinens,
 consiliis et astu res externas moliri, arma procul habere. interea cognitis insidiis Artabanus tardari metu,
 modo cupidine vindictae inardescere. et barbaris cunctatio servilis, statim exequi regium videtur: valuit
 tamen utilitas, ut Abdum specie amicitiae vocatum ad epulas lento veneno inligaret, Sinnacen
@@ -557,7 +572,9 @@ habetur, cesseruntque prima postremis, et bona iuventae senectus flagitiosa obli
  
 
  
-[ 6.33 ] At ex regulis prior Mithridates Pharasmanem perpulit dolo et vi conatus suos iuvare,
+### [ 6.33 ] 
+
+At ex regulis prior Mithridates Pharasmanem perpulit dolo et vi conatus suos iuvare,
 repertique corruptores ministros Arsacis multo auro ad scelus cogunt; simul Hiberi magnis copiis
 Armeniam inrumpunt et urbe Artaxata potiuntur. quae postquam Artabano cognita, filium Oroden ultorem
 parat; dat Parthorum copias, mittit qui auxilia mercede facerent: contra Pharasmanes adiungere Albanos,
@@ -569,7 +586,9 @@ freto brevia litorum nudantur.
  
 
  
-[ 6.34 ] Interim Oroden sociorum inopem auctus auxilio Pharasmanes vocare ad pugnam et
+### [ 6.34 ] 
+
+Interim Oroden sociorum inopem auctus auxilio Pharasmanes vocare ad pugnam et
 detrectantem incessere, adequitare castris, infensare pabula; ac saepe modum obsidii stationibus
 cingebat, donec Parthi contumeliarum insolentes circumsisterent regem poscerent proelium. atque illis sola
 in equite vis: Pharasmanes et pedite valebat. nam Hiberi Albanique saltuosos locos incolentes duritiae
@@ -583,7 +602,9 @@ simul horridam suorum aciem, picta auro Medorum agmina, hinc viros, inde praedam
  
 
  
-[ 6.35 ] Enimvero apud Sarmatas non una vox ducis: se quisque stimulant ne pugnam per sagittas
+### [ 6.35 ] 
+
+Enimvero apud Sarmatas non una vox ducis: se quisque stimulant ne pugnam per sagittas
 sinerent: impetu et comminus praeveniendum. variae hinc bellantium species, cum Parthus sequi vel fugere
 pari arte suetus distraheret turmas, spatium ictibus quaereret, Sarmatae omisso arcu, quo brevius valent,
 contis gladiisque ruerent; modo equestris proelii more frontis et tergi vices, aliquando ut conserta acies
@@ -596,7 +617,9 @@ Parthos victoriamque concessere.
  
 
  
-[ 6.36 ] Mox Artabanus tota mole regni ultum iit. peritia locorum ab Hiberis melius pugnatum; nec
+### [ 6.36 ] 
+
+Mox Artabanus tota mole regni ultum iit. peritia locorum ab Hiberis melius pugnatum; nec
 ideo abscedebat, ni contractis legionibus Vitellius et subdito rumore tamquam Mesopotamiam invasurus
 metum Romani belli fecisset. tum omissa Armenia versaeque Artabani res, inliciente Vitellio desererent
 regem saevum in pace et adversis proeliorum exitiosum. igitur Sinnaces, quem antea infensum memoravi,
@@ -610,7 +633,9 @@ paenitentiam mutari.
  
 
  
-[ 6.37 ] At Vitellius profugo Artabano et flexis ad novum regem popularium animis, hortatus
+### [ 6.37 ] 
+
+At Vitellius profugo Artabano et flexis ad novum regem popularium animis, hortatus
 Tiridaten parata capessere, robur legionum sociorumque ripam ad Euphratis ducit. sacrificantibus, cum hic
 more Romano suovetaurilia daret, ille equum placando amni adornasset, nuntiavere accolae Euphraten
 nulla imbrium vi sponte et immensum attolli, simul albentibus spumis in modum diadematis sinuare orbis,
@@ -627,7 +652,9 @@ et fidem retinerent. exim cum legionibus in Syriam remeavit.
  
 
  
-[ 6.38 ] Quae duabus aestatibus gesta coniunxi quo requie scerete animus a domesticis malis; non
+### [ 6.38 ] 
+
+Quae duabus aestatibus gesta coniunxi quo requie scerete animus a domesticis malis; non
 enim Tiberium, quamquam triennio post caedem Seiani, quae ceteros mollire solent, tempus preces satias
 mitigabant, quin incerta vel abolita pro gravissimis et recentibus puniret. eo metu Fulcinius Trio ingruentis
 accusatores haud perpessus supremis tabulis multa et atrocia in Macronem ac praecipuos libertorum
@@ -640,7 +667,9 @@ supplicium damnatus.
  
 
  
-[ 6.39 ] Nec dispares Trebelleni Rufi et Sextii Paconiani exitus: nam Trebellenus sua manu cecidit,
+### [ 6.39 ] 
+
+Nec dispares Trebelleni Rufi et Sextii Paconiani exitus: nam Trebellenus sua manu cecidit,
 Paconianus in carcere ob carmina illic in principem factitata strangulatus est. haec Tiberius non mari, ut
 olim, divisus neque per longinquos nuntios accipiebat, sed urbem iuxta, eodem ut die vel noctis interiectu
 litteris consulum rescriberet, quasi aspiciens undantem per domos sanguinem aut manus carnificum. fine
@@ -650,7 +679,9 @@ sed quod par negotiis neque supra erat.
  
 
  
-[ 6.40 ] Quintus Plautius Sex. Papinius consules sequuntur. eo anno neque quod L. Aruseius * * *
+### [ 6.40 ] 
+
+Quintus Plautius Sex. Papinius consules sequuntur. eo anno neque quod L. Aruseius * * *
 morte adfecti forent, adsuetudine malorum ut atrox advertebatur, sed exterruit quod Vibulenus Agrippa
 eques Romanus, cum perorassent accusatores, in ipsa curia depromptum sinu venenum hausit prolapsusque
 ac moribundus festinatis lictorum manibus in carcerem raptus est faucesque iam exanimis laqueo vexatae.
@@ -664,7 +695,9 @@ defensione finem vitae sibi posuit.
  
 
  
-[ 6.41 ] Per idem tempus Clitarum natio Cappadoci Archelao subiecta, quia nostrum in modum
+### [ 6.41 ] 
+
+Per idem tempus Clitarum natio Cappadoci Archelao subiecta, quia nostrum in modum
 deferre census, pati tributa adigebatur, in iuga Tauri montis abscessit locorumque ingenio sese contra
 imbellis regis copias tutabatur, donec M. Trebellius legatus, a Vitellio praeside Syriae cum quattuor
 milibus legionariorum et delectis auxiliis missus, duos collis quos barbari insederant (minori Cadra, alteri
@@ -676,7 +709,9 @@ sperabant.
  
 
  
-[ 6.42 ] Plurimum adulationis Seleucenses induere, civitas potens, saepta muris neque in barbarum
+### [ 6.42 ] 
+
+Plurimum adulationis Seleucenses induere, civitas potens, saepta muris neque in barbarum
 corrupta sed conditoris Seleuci retinens. trecenti opibus aut sapientia delecti ut senatus, sua populo vis. et
 quoties concordes agunt, spernitur Parthus: ubi dissensere, dum sibi quisque contra aemulos subsidium
 vocant, accitus in partem adversum omnis valescit. id nuper acciderat Artabano regnante, qui plebem
@@ -690,7 +725,9 @@ coram et adprobantibus Surena patrio more Tiridaten insigni regio evinxit.
  
 
  
-[ 6.43 ] Ac si statim interiora ceterasque nationes petivisset, oppressa cunctantium dubitatio et omnes
+### [ 6.43 ] 
+
+Ac si statim interiora ceterasque nationes petivisset, oppressa cunctantium dubitatio et omnes
 in unum cedebant: adsidendo castellum, in quod pecuniam et paelices Artabanus contulerat, dedit spatium
 exuendi pacta. nam Phraates et Hiero et si qui alii delectum capiendo diademati diem haut
 concelebraverant, pars metu, quidam invidia in Abdagaesen qui tum aula et novo rege potiebatur ad
@@ -701,7 +738,9 @@ inane nomen apud imbellem externa mollitia, vim in Abdagaesis domo.
  
 
  
-[ 6.44 ] Sensit vetus regnandi falsos in amore odia non fingere. nec ultra moratus quam dum
+### [ 6.44 ] 
+
+Sensit vetus regnandi falsos in amore odia non fingere. nec ultra moratus quam dum
 Scytharum auxilia conciret, pergit properus et praeveniens inimicorum astus, amicorum paenitentiam;
 neque exuerat paedorem ut vulgum miseratione adverteret. non fraus, non preces, nihil omissum quo
 ambiguos inliceret, prompti firmarentur. iamque multa manu propinqua Seleuciae adventabat, cum
@@ -716,7 +755,9 @@ Artabani, donec Tiridates cum paucis in Syriam revectus pudore proditionis omnis
  
 
  
-[ 6.45 ] Idem annus gravi igne urbem adficit, deusta parte circi quae Aventino contigua, ipsoque
+### [ 6.45 ] 
+
+Idem annus gravi igne urbem adficit, deusta parte circi quae Aventino contigua, ipsoque
 Aventino; quod damnum Caesar ad gloriam vertit exolutis domuum et insularum pretiis. milies sestertium
 in munificentia conlocatum, tanto acceptius in vulgum, quanto modicus privatis aedificationibus ne
 publice quidem nisi duo opera struxit, templum Augusto et scaenam Pompeiani theatri; eaque perfecta,
@@ -732,7 +773,9 @@ perdidicerat.
  
 
  
-[ 6.46 ] Gnarum hoc principi, eoque dubitavit de tradenda re publica, primum inter nepotes, quorum
+### [ 6.46 ] 
+
+Gnarum hoc principi, eoque dubitavit de tradenda re publica, primum inter nepotes, quorum
 Druso genitus sanguine et caritate propior, sed nondum pubertatem ingressus, Germanici filio robur
 iuventae, vulgi studia, eaque apud avum odii causa. etiam de Claudio agitanti, quod is composita aetate
 bonarum artium cupiens erat, imminuta mens eius obstitit. sin extra domum successor quaereretur, ne
@@ -748,7 +791,9 @@ vel noxia alieni consilii indigerent.
  
 
  
-[ 6.47 ] Interim Romae futuris etiam post Tiberium caedibus semina iaciebantur. Laelius Balbus
+### [ 6.47 ] 
+
+Interim Romae futuris etiam post Tiberium caedibus semina iaciebantur. Laelius Balbus
 Acutiam, P. Vitellii quondam uxorem, maiestatis postulaverat; qua damnata cum praemium accusatori
 decerneretur, Iunius Otho tribunus plebei intercessit, unde illis odia, mox Othoni exitium. dein multorum
 amoribus famosa Albucilla, cui matrimonium cum Satrio Secundo coniurationis indice fuerat, defertur
@@ -760,7 +805,9 @@ ob inimicitias Macronis notas in Arruntium.
  
 
  
-[ 6.48 ] Igitur Domitius defensionem meditans, Marsus tamquam inediam destinavisset, produxere
+### [ 6.48 ] 
+
+Igitur Domitius defensionem meditans, Marsus tamquam inediam destinavisset, produxere
 vitam: Arruntius, cunctationem et moras suadentibus amicis, non eadem omnibus decora respondit: sibi
 satis aetatis neque aliud paenitendum quam quod inter ludibria et pericula anxiam senectam toleravisset,
 diu Seiano, nunc Macroni, semper alicui potentium invisus, non culpa sed ut flagitiorum impatiens. sane
@@ -776,7 +823,9 @@ laetantibus, quia Balbus truci eloquentia habebatur, promptus adversum insontis.
  
 
  
-[ 6.49 ] Isdem diebus Sex. Papinius consulari familia repentinum et informem exitum delegit, iacto in
+### [ 6.49 ] 
+
+Isdem diebus Sex. Papinius consulari familia repentinum et informem exitum delegit, iacto in
 praeceps corpore. causa ad matrem referebatur, quae pridem repudiata adsentationibus atque luxu
 perpulisset iuvenem ad ea quorum effugium non nisi morte inveniret. igitur accusata in senatu, quamquam
 genua patrum advolveretur luctumque communem et magis imbecillum tali super casu feminarum animum
@@ -785,7 +834,9 @@ minor filius lubricum iuventae exiret.
  
 
  
-[ 6.50 ] Iam Tiberium corpus, iam vires, nondum dissimulatio deserebat: idem animi rigor; sermone
+### [ 6.50 ] 
+
+Iam Tiberium corpus, iam vires, nondum dissimulatio deserebat: idem animi rigor; sermone
 ac vultu intentus quaesita interdum comitate quamvis manifestam defectionem tegebat. mutatisque saepius
 locis tandem apud promunturium Miseni consedit in villa cui L. Lucullus quondam dominus. illic eum
 adpropinquare supremis tali modo compertum. erat medicus arte insignis, nomine Charicles, non quidem
@@ -803,7 +854,9 @@ septuagesimo aetatis anno.
  
 
  
-[ 6.51 ] Pater ei Nero et utrimque origo gentis Claudiae, quamquam mater in Liviam et mox Iuliam
+### [ 6.51 ] 
+
+Pater ei Nero et utrimque origo gentis Claudiae, quamquam mater in Liviam et mox Iuliam
 familiam adoptionibus transierit. casus prima ab infantia ancipites; nam proscriptum patrem exul secutus,
 ubi domum Augusti privignus introiit, multis aemulis conflictatus est, dum Marcellus et Agrippa, mox
 Gaius Luciusque Caesares viguere; etiam frater eius Drusus prosperiore civium amore erat. sed maxime in

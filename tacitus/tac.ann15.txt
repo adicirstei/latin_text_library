@@ -1,4 +1,4 @@
-Tacitus: Annales XV
+# Tacitus: Annales XV
 		 
 
 		 
@@ -7,90 +7,13 @@ Tacitus: Annales XV
 	
  
 
- P. CORNELI TACITI ANNALIVM LIBER QVINTVS DECIMVS
+## P. CORNELI TACITI ANNALIVM LIBER QVINTVS DECIMVS
  
 
  
+### [ 1 ] 
 
- 
-	 1 
-	 2 
-	 3 
-	 4 
-	 5 
-	 6 
-	 7 
-	 8 
-	 9 
-	 10 
-	 11 
-	 12 
-	 13 
-	 14 
-	 15 
-	 16 
-	 17 
-	 18 
-	 19 
-	 20 
-	 21 
-	 22 
-	 23 
-	 24 
-	 25 
-	 26 
-	 27 
-	 28 
-	 29 
-	 30 
-	 31 
-	 32 
-	 33 
-	 34 
-	 35 
-	 36 
-	 37 
-	 38 
-	 39 
-	 40 
-	 41 
-	 42 
-	 43 
-	 44 
-	 45 
-	 46 
-	 47 
-	 48 
-	 49 
-	 50 
-	 51 
-	 52 
-	 53 
-	 54 
-	 55 
-	 56 
-	 57 
-	 58 
-	 59 
-	 60 
-	 61 
-	 62 
-	 63 
-	 64 
-	 65 
-	 66 
-	 67 
-	 68 
-	 69 
-	 70 
-	 71 
-	 72 
-	 73 
-	 74 
- 
- 
- 
-[ 1 ] Interea rex Parthorum Vologaeses, cognitis Corbulonis
+Interea rex Parthorum Vologaeses, cognitis Corbulonis
 rebus regemque alienigenam Tigranen Armeniae impositum, simul
 fratre Tiridate pulso spretum Arsacidarum fastigium ire ultum volens,
 magnitudine rursum Romana et continui foederis reverentia diversas ad
@@ -112,7 +35,9 @@ alienis certare regiam laudem esse.
  
 
  
-[ 2 ] Igitur commotus his Vologaeses concilium vocat et
+### [ 2 ] 
+
+Igitur commotus his Vologaeses concilium vocat et
 proximum sibi Tiridaten constituit atque ita orditur: "hunc ego eodem
 mecum patre genitum, cum mihi per aetatem summo nomine
 concessisset, in possessionem Armeniae deduxi, qui tertius potentiae
@@ -132,7 +57,9 @@ provinciis Romanis minitans.
  
 
  
-[ 3 ] Quae ubi Corbuloni certis nuntiis audita sunt, legiones
+### [ 3 ] 
+
+Quae ubi Corbuloni certis nuntiis audita sunt, legiones
 duas cum Verulano Severo et Vettio Bolano subsidium Tigrani mittit,
 occulto praecepto, compositius cuncta quam festinantius agerent. quippe
 bellum habere quam gerere malebat, scripseratque Caesari proprio duce
@@ -144,7 +71,9 @@ fontibus imposita; quosdam rivos congestu harenae abdidit.
  
 
  
-[ 4 ] Ea dum a Corbulone tuendae Syriae parantur, acto
+### [ 4 ] 
+
+Ea dum a Corbulone tuendae Syriae parantur, acto
 raptim agmine Mon[a]eses, ut famam sui praeiret, non ideo nescium
 aut incautum Tigranen offendit. occupaverat Tigranocertam, urbem
 copia defensorum et magnitudine moenium validam. ad hoc
@@ -159,7 +88,9 @@ detrusi, mox erumpentibus nostris caeduntur.
  
 
  
-[ 5 ] Corbulo tamen, quamvis secundis rebus suis,
+### [ 5 ] 
+
+Corbulo tamen, quamvis secundis rebus suis,
 moderandum fortunae ratus misit ad Vologaesen, qui expostularent vim
 provinciae inlatam: socium amicumque regem, cohortes Romanas
 circumsederi. omitteret potius obsidionem, aut se quoque in agro hostili
@@ -178,7 +109,9 @@ ipse retro concedit.
  
 
  
-[ 6 ] Haec plures ut formidine regis et Corbulonis minis
+### [ 6 ] 
+
+Haec plures ut formidine regis et Corbulonis minis
 patrata ac magnifica extollebat. alii occulte pepigisse interpretabantur,
 ut omisso utrimque bello et abeunte Vologaese Tigranes quoque
 Armenia abscederet. cur enim exercitum Romanum a Tigranocertis
@@ -200,7 +133,9 @@ Romanum ius victis impositurum.
  
 
  
-[ 7 ] Sub idem tempus legati Vologaesis, quos ad principem
+### [ 7 ] 
+
+Sub idem tempus legati Vologaesis, quos ad principem
 missos memoravi, revertere inriti bellumque propalam sumptum a
 Parthis. nec Paetus detrectavit, sed duabus legionibus, quarum quartum
 Funisulanus Vettonianus eo in tempore, duodecimam Calavius Sabinus
@@ -213,7 +148,9 @@ missilibus telis decertat.
  
 
  
-[ 8 ] Ceterum Paetus spretis ominibus, necdum satis firmatis
+### [ 8 ] 
+
+Ceterum Paetus spretis ominibus, necdum satis firmatis
 hibernaculis, nullo rei frumentariae provisu, rapit exercitum trans
 montem Taurum reciperandis, ut ferebat, Tigranocertis vastandisque
 regionibus, quas Corbulo integras omisisset. et capta quaedam castella,
@@ -225,7 +162,9 @@ confecto bello, verbis magnificis, rerum vacuas.
  
 
  
-[ 9 ] Interim Corbulo numquam neglectam Euphratis ripam
+### [ 9 ] 
+
+Interim Corbulo numquam neglectam Euphratis ripam
 crebrioribus praesidiis insedit; et ne ponti iniciendo impedimentum
 hostiles turmae adferrent (iam enim subiectis magna specie volitabant),
 naves magnitudine praestantes et conexas trabibus ac turribus auctas agit
@@ -241,7 +180,9 @@ infenso agmine auditum.
  
 
  
-[ 10 ] Accitur legio duodecima, et unde famam aucti exercitus
+### [ 10 ] 
+
+Accitur legio duodecima, et unde famam aucti exercitus
 speraverat, prodita infrequentia. qua tamen retineri castra et eludi
 Parthus tractu belli poterat, si Paeto aut in suis aut in alienis consiliis
 constantia fuisset: verum ubi a viris militaribus adversus urgentes casus
@@ -262,7 +203,9 @@ legionibus et alarios octingentos, parem numerum e cohortibus iussit.
  
 
  
-[ 11 ] At Vologaeses, quamvis obsessa a Paeto itinera hinc
+### [ 11 ] 
+
+At Vologaeses, quamvis obsessa a Paeto itinera hinc
 peditatu inde equite accepisset, nihil mutato consilio, sed vi ac minis
 alares exterruit, legionarios obtrivit, uno tantum centurione Tarquitio
 Crescente turrim, in qua praesidium agitabat, defendere auso factaque
@@ -277,7 +220,9 @@ interim, donec vita suppeditet, retenturos.
  
 
  
-[ 12 ] Ille interritus et parte copiarum apud Syriam relicta, ut
+### [ 12 ] 
+
+Ille interritus et parte copiarum apud Syriam relicta, ut
 munimenta Euphrati imposita retinerentur, qua proximum et
 commeatibus non egenum, regionem Commagenam, exim
 Cappadociam, inde Armenios petivit. comitabantur exercitum praeter
@@ -297,7 +242,9 @@ iter properabant.
  
 
  
-[ 13 ] Eoque intentius Vologaeses premere obsessos, modo
+### [ 13 ] 
+
+Eoque intentius Vologaeses premere obsessos, modo
 vallum legionum, modo castellum, quo imbellis aetas defendebatur,
 adpugnare, propius incedens quam mos Parthis, si ea temeritate hostem
 in proelium eliceret. at illi vix contuberniis extracti, nec aliud quam
@@ -316,7 +263,9 @@ reliquum, quo bellum iuvarent.
  
 
  
-[ 14 ] Ad eo Vologaeses nihil pro causa, sed opperiendos sibi
+### [ 14 ] 
+
+Ad eo Vologaeses nihil pro causa, sed opperiendos sibi
 fratres Pacorum ac Tiridaten rescripsit; illum locum tempusque consilio
 destinatum, quid de Armenia cernerent; adiecisse deos dignum
 Arsacidarum, simul ut de legionibus Romanis statuerent. missi posthac
@@ -332,7 +281,9 @@ mittendi ad Neronem legatos.
  
 
  
-[ 15 ] Interim flumini Arsaniae (is castra praefluebat) pontem
+### [ 15 ] 
+
+Interim flumini Arsaniae (is castra praefluebat) pontem
 imposuit, specie sibi illud iter expedientis, sed Parthi quasi
 documentum victoriae iusserant; namque iis usui fuit, nostri per
 diversum iere. addidit rumor sub iugum missas legiones et alia ex rebus
@@ -350,7 +301,9 @@ validum et fidum intellexere.
  
 
  
-[ 16 ] Ceterum obsessis adeo suppeditavisse rem frumentariam
+### [ 16 ] 
+
+Ceterum obsessis adeo suppeditavisse rem frumentariam
 constitit, ut horreis ignem inicerent, contraque prodiderit Corbulo
 Parthos inopes copiarum et pabulo attrito relicturos oppugnationem,
 neque se plus tridui itinere afuisse. adicit iure iurando Paeti cautum
@@ -369,7 +322,9 @@ minores magis.
  
 
  
-[ 17 ] Ducum inter se brevis sermo secutus est, hoc
+### [ 17 ] 
+
+Ducum inter se brevis sermo secutus est, hoc
 conquerente inritum laborem, potuisse bellum fuga Parthorum finiri;
 ille integra utrique cuncta respondit: converterent aquilas et iuncti
 invaderent Armeniam abscessu Vologaesis infirmatam. non ea
@@ -386,7 +341,9 @@ arbitro relicti sunt.
  
 
  
-[ 18 ] At Romae tropaea de Parthis arcusque medio Capitolini
+### [ 18 ] 
+
+At Romae tropaea de Parthis arcusque medio Capitolini
 montis sistebantur, decreta ab senatu integro adhuc bello neque tum
 omissa, dum adspectui consulitur spreta conscientia. quin et
 dissimulandis rerum externarum curis Nero frumentum plebis vetustate
@@ -400,7 +357,9 @@ annuum sexcenties sestertium rei publicae largiri.
  
 
  
-[ 19 ] Percrebuerat et tempestate pravus mos, cum propinquis
+### [ 19 ] 
+
+Percrebuerat et tempestate pravus mos, cum propinquis
 comitiis aut sorte provinciarum plerique orbi fictis adoptionibus
 adsciscerent filios, praeturasque et provincias inter patres sortiti statim
 emitterent manu, quos adoptaverant. [igitur qui filios genuerant]
@@ -415,7 +374,9 @@ ne usurpandis quidem hereditatibus prodesset.
  
 
  
-[ 20 ] Exim Claudius Timarchus Cretensis reus agitur, ceteris
+### [ 20 ] 
+
+Exim Claudius Timarchus Cretensis reus agitur, ceteris
 criminibus, ut solent praevalidi provincialium et opibus nimiis ad
 iniurias minorum elati: una vox eius usque ad contumeliam senatus
 penetraverat, quod dictitasset in sua potestate situm, an proconsulibus,
@@ -433,7 +394,9 @@ civium iudicio esse.
  
 
  
-[ 21 ] Olim quidem non modo praetor aut consul, sed privati
+### [ 21 ] 
+
+Olim quidem non modo praetor aut consul, sed privati
 etiam mittebantur, qui provincias viserent et quid de cuiusque obsequio
 videretur referrent, trepidabantque gentes de aestimatione singulorum:
 at nunc colimus externos et adulamur, et quo modo ad nutum alicuius
@@ -450,7 +413,9 @@ gratiarum actione ambitio cohibe[bi]tur."
  
 
  
-[ 22 ] Magno adsensu celebrata sententia. non tamen senatus
+### [ 22 ] 
+
+Magno adsensu celebrata sententia. non tamen senatus
 consultum perfici potuit abnuentibus consulibus ea de re relatum. mox
 auctore principe sanxere, ne quis ad concilium sociorum referret
 agendas apud senatum pro praetoribus prove consulibus grates, neu quis
@@ -462,7 +427,9 @@ Vestalis Laelia, in cuius locum Cornelia ex familia Cossorum capta est.
  
 
  
-[ 23 ] Memmio Regulo et Verginio Rufo consulibus
+### [ 23 ] 
+
+Memmio Regulo et Verginio Rufo consulibus
 natam sibi ex Poppaea filiam Nero ultra mortale gaudium accepit
 appelavitque Augustam, dato et Poppaea eodem cognomento. locus
 puerperio colonia Antium fuit, ubi ipse generatus erat. iam senatus
@@ -483,7 +450,9 @@ egregiis viris et pericula gliscebant.
  
 
  
-[ 25 ] Inter quae veris principio legati Parthorum mandata regis
+### [ 25 ] 
+
+Inter quae veris principio legati Parthorum mandata regis
 Vologaesis litterasque in eandem formam attulere: se priora et totiens
 iactata super obtineneda Armenia nunc omittere, quoniam dii, quamvis
 potentium populorum arbitri, possessionem Parthis non sine ignominia
@@ -496,7 +465,9 @@ regnum auspicaretur.
  
 
  
-[ 25 ] Talibus Vologaesis litteris, qui Paetus diversa tamquam
+### [ 25 ] 
+
+Talibus Vologaesis litteris, qui Paetus diversa tamquam
 rebus integris scribebat, interrogatus centurio, qui cum legatis
 advenerat, quo in statu Armenia esset, omnes inde Romanos excessisse
 respondit. tum intellecto barbarorum inrisu, qui peterent quod
@@ -517,7 +488,9 @@ tam promptus in pavorem longiore sollicitudine aegresceret.
  
 
  
-[ 26 ] At Corbulo, quarta et duodecima legionibus, quae
+### [ 26 ] 
+
+At Corbulo, quarta et duodecima legionibus, quae
 fortissimo quoque amisso et ceteris exterritis parum habiles proelio
 videbantur, in Syriam translatis, sextam inde ac tertiam legiones,
 integrum militem et crebris ac prosperis laboribus exercitum in
@@ -532,7 +505,9 @@ militari pro facundia erat.
  
 
  
-[ 27 ] Mox iter L. Lucullo quondam penetratum, apertis quae
+### [ 27 ] 
+
+Mox iter L. Lucullo quondam penetratum, apertis quae
 vetustas obsaepserat, pergit. et venientes Tiridatis Bologaesisque de
 pace legatos haud aspernatus, adiungit iis centuriones cum mandatis non
 immitibus: nec enim adhuc eo ventum, ut certamine extremo opus
@@ -548,7 +523,9 @@ plana edita, validos invalidosque pari metu complet.
  
 
  
-[ 28 ] Non infensum nec cum hostili odio Corbulonis nomen
+### [ 28 ] 
+
+Non infensum nec cum hostili odio Corbulonis nomen
 etiam barbaris habebatur, eoque consilium eius fidum credebant. ergo
 Bologaeses neque atrox in summam, et quibusdam praefecturis indutias
 petit: Tiridates locum diemque conloquio poscit. tempus propinquum,
@@ -566,7 +543,9 @@ uterque dexteras miscuere.
  
 
  
-[ 29 ] Exim Romanus laudat iuvenem omissis praecipitibus tuta
+### [ 29 ] 
+
+Exim Romanus laudat iuvenem omissis praecipitibus tuta
 et salutaria capessentem. ille de nobilitate generis multum praefatus,
 cetera temperanter adiungit: iturum quippe Romam laturumque novum
 Caesari decus, non adversis Parthorum rebus supplicem Arsaciden. tum
@@ -584,7 +563,9 @@ captivum?
  
 
  
-[ 30 ] Addidit gloriae Corbulo comitatem epulasque; et
+### [ 30 ] 
+
+Addidit gloriae Corbulo comitatem epulasque; et
 rogitante rege causas, quotiens novum aliquid adverterat, ut initia
 vigiliarum per centurionem nuntiari, convivium bucina dimitti et
 structam ante augurale aram subdita face accendi, cuncta in maius
@@ -594,7 +575,9 @@ interea filiam tradit litterasque supplices ad Neronem.
  
 
  
-[ 31 ] Et digressus Pacorum apud Medos, Vologaesen Ecbatanis
+### [ 31 ] 
+
+Et digressus Pacorum apud Medos, Vologaesen Ecbatanis
 repperit, non incuriosum fratris: quippe et propriis nuntiis a Corbulone
 petierat, ne quam imaginem servitii Tiridates perferret neu ferrum
 traderet aut complexu provincias obtinentium arceretur foribusve eorum
@@ -604,7 +587,9 @@ valet, inania tramittuntur.
  
 
  
-[ 32 ] Eodem anno Caesar nationes Alpium maritimarum in ius
+### [ 32 ] 
+
+Eodem anno Caesar nationes Alpium maritimarum in ius
 Latii transtulit. equitum Romanorum locos sedilibus plebis anteposuit
 apud circum; namque ad eam diem indiscreti inibant, quia lex Roscia
 nihil nisi de quattuordecim ordinibus sanxit. spectacula gladiatorum
@@ -613,7 +598,9 @@ inlustrium senatorumque plures per arenam foedati sunt.
  
 
  
-[ 33 ] C. Laecanio M. Licinio consulibus acriore in dies
+### [ 33 ] 
+
+C. Laecanio M. Licinio consulibus acriore in dies
 cupidine adigebatur Nero promiscas scaenas frequentandi. nam adhuc
 per domum aut hortos cecinerat Iuvenalibus ludis, quos ut parum
 celebres et tantae voci angustos spernebat. non tamen Romae incipere
@@ -626,7 +613,9 @@ etiam militum manipuli, theatrum Neapolitanorum complent.
  
 
  
-[ 34 ] Illic, plerique ut arbitra[ba]ntur, triste, ut ipse,
+### [ 34 ] 
+
+Illic, plerique ut arbitra[ba]ntur, triste, ut ipse,
 providum potius et secundis numinibus evenit: nam egresso qui adfuerat
 populo vacuum et sine ullius noxa theatrum collapsum est. ergo per
 compositos cantus grates dis atque ipsam recentis casus fortunam
@@ -639,7 +628,9 @@ vi nocendi etiam malos praemineret.
  
 
  
-[ 35 ] Eius minus frequentanti Neroni ne inter voluptates
+### [ 35 ] 
+
+Eius minus frequentanti Neroni ne inter voluptates
 quidem a sceleribus cessabatur. isdem quippe illis diebus Torquatus
 Silanus mori adigitur, quia super Iuniae familiae claritudinem divum
 Augustum abavum ferebat. iussi accusatores obicere prodigum
@@ -653,7 +644,9 @@ clementiam iudicis exspectasset.
  
 
  
-[ 36 ] Nec multo post omissa in praesens Achaia (causae in
+### [ 36 ] 
+
+Nec multo post omissa in praesens Achaia (causae in
 incerto fuere) urbem revisit, provincias Orientis, maxime Aegyptum,
 secretis imaginationibus agitans. dehinc [e]dicto testificatus non
 longam sui absentiam et cuncta in re publica perinde immota ac
@@ -674,7 +667,9 @@ timoribus, deterius credebant quod evenerat.
  
 
  
-[ 37 ] Ipse quo fidem adquireret nihil usquam perinde laetum
+### [ 37 ] 
+
+Ipse quo fidem adquireret nihil usquam perinde laetum
 sibi, publicis locis struere convivia totaque urbe quasi domo uti. et
 celeberrimae luxu famaque epulae fuere, quas a Tigellino paratas ut
 exemplum referam, ne saepius eadem prodigentia narranda sit. igitur in
@@ -695,7 +690,9 @@ femina nox operit.
  
 
  
-[ 38 ] Sequitur clades, forte an dolo principis incertum (nam
+### [ 38 ] 
+
+Sequitur clades, forte an dolo principis incertum (nam
 utrumque auctores prodidere), sed omnibus, quae huic urbi per
 violentiam ignium acciderunt, gravior atque atrocior. initium in ea parte
 circi ortum, quae Palatino Caelioque montibus contigua est, ubi per
@@ -722,7 +719,9 @@ raptus licentius exercerent seu iussu.
  
 
  
-[ 39 ] Eo in tempore Nero Anti agens non ante in urbem
+### [ 39 ] 
+
+Eo in tempore Nero Anti agens non ante in urbem
 regressus est, quam domui eius, qua Palantium et Maecenatis hortos
 continuaverat, ignis propinquaret. neque tamen sisti potuit, quin et
 Palatium et domus et cuncta circum haurirentur. sed solacium populo
@@ -737,7 +736,9 @@ cladibus adsimulantem.
  
 
  
-[ 40 ] Sexto demum die apud imas Esquilias finis incendio
+### [ 40 ] 
+
+Sexto demum die apud imas Esquilias finis incendio
 factus, prorutis per immensum aedificiis, ut continuae violentiae
 campus et velut vacuum caelum occurreret. necdum pos[i]t[us]
 metus aut redierat [p]lebi s[pes]: rursum grassatus ignis, patulis
@@ -752,7 +753,9 @@ semusta.
  
 
  
-[ 41 ] Domum et insularum et templorum, quae amissa sunt,
+### [ 41 ] 
+
+Domum et insularum et templorum, quae amissa sunt,
 numerum inire haud promptum fuerit; sed vetustissima religione, quod
 Servius Tullius Lunae, et magna ara fanumque, quae praesenti Herculi
 Arcas Evander sacraverat, aedesque Statoris Iovis vota Romulo
@@ -767,7 +770,9 @@ inter utraque incendia numer[ar]ent.
  
 
  
-[ 42 ] Ceterum Nero usus est patriae ruinis exstruxitque
+### [ 42 ] 
+
+Ceterum Nero usus est patriae ruinis exstruxitque
 domum, in qua haud proinde gemmae et aurum miraculo essent, solita
 pridem et luxu vulgata, quam arva et stagna et in modum solitudinem
 hinc silvae, inde aperta spatia et prospetus, magistris et machinatoribus
@@ -782,7 +787,9 @@ Averno iuga conisus est, manentque vestigia inritae spei.
  
 
  
-[ 43 ] Ceterum urbis quae domui supererant non, ut post
+### [ 43 ] 
+
+Ceterum urbis quae domui supererant non, ut post
 Gallica incendia, nulla distinctione nec passim erecta, sed dimensis
 vicorum ordinibus et latis viarum spatiis cohibitaque aedificiorum
 altitudine ac patefactis areis additisque porticibus, quae frontem
@@ -805,7 +812,9 @@ ardescere.
  
 
  
-[ 44 ] Et haec quidem humanis consiliis providebantur. mox
+### [ 44 ] 
+
+Et haec quidem humanis consiliis providebantur. mox
 petita [a] dis piacula aditique Sibyllae libri, ex quibus supplicatum
 Volcano et Cereri Proserpinaeque, ac propitiata Iuno per matronas,
 primum in Capitolio, deinde apud proximum mare, unde hausta aqua
@@ -832,7 +841,9 @@ absumerentur.
  
 
  
-[ 45 ] Interea conferendis pecuniis pervastata Italia, provinciae
+### [ 45 ] 
+
+Interea conferendis pecuniis pervastata Italia, provinciae
 eversae sociique populi et quae civitatium liberae vocantur. inque eam
 praedam etiam dii cessere, spoliatis in urbe templis egestoque auro,
 quod triumphis, quod votis omnis populi Romani aetas prospere aut in
@@ -850,7 +861,9 @@ si sitis admoneret, profluente aqua vitam tolerat.
  
 
  
-[ 46 ] Per idem tempus gladiatores apud oppidum Praeneste
+### [ 46 ] 
+
+Per idem tempus gladiatores apud oppidum Praeneste
 temptata eruptione praesidio militis, qui custos adesset, coerciti sunt,
 iam Spartacum et vetera mala rumoribus ferente populo, ut est novarum
 rerum cupiens pavidusque. nec multo post clades rei navalis accipitur,
@@ -863,7 +876,9 @@ amiserunt.
  
 
  
-[ 47 ] Fine anni vulgantur prodigia imminentium malorum
+### [ 47 ] 
+
+Fine anni vulgantur prodigia imminentium malorum
 nuntia: vis fulgurum non alias crebrior, et sidus cometes, sanguine
 inlustri semper [Neroni] expiatum; bicipites hominum aliorumve
 animalium partus abiecti in publicum aut in sacrificiis, quibus gravidas
@@ -875,7 +890,9 @@ sit.
  
 
  
-[ 48 ] Ineunt deinde consulatum Silius Nerva et Atticus
+### [ 48 ] 
+
+Ineunt deinde consulatum Silius Nerva et Atticus
 Vestinus, coepta simul et aucta coniuratione, in quam certatim
 nomina dederant senatores eques miles, feminae etiam, cum odio
 Neronis, tum favore in C. Pisonem. is Calpurnio genere ortus ac multas
@@ -890,7 +907,9 @@ summum imperium non restrictum nec praeseverum volunt.
  
 
  
-[ 49 ] Initium coniurationi non a cupidine ipsius fuit; nec tamen
+### [ 49 ] 
+
+Initium coniurationi non a cupidine ipsius fuit; nec tamen
 facile memoraverim, qui primus auctor, cuius instinctu concitum sit
 quod tam multi sumpserunt. promptissimos Subrium Flavum tribunum
 praetoriae cohortis et Sulpicium Asprum centurionem extitisse
@@ -907,7 +926,9 @@ contumeliam ultum ibat.
  
 
  
-[ 50 ] Ergo dum scelera principis, et finem adesse imperio
+### [ 50 ] 
+
+Ergo dum scelera principis, et finem adesse imperio
 diligendumque, qui fessis rebus succurreret, inter se aut inter amicos
 iaciunt, adgregavere Claudium Senecionem, Cervarium Proculum,
 Vulcacium Araricum, Iulium Augurinum, Munatium Gratum,
@@ -932,7 +953,9 @@ retinuisset, magnis semper conatibus adversa.
  
 
  
-[ 51 ] Interim cunctantibus prolatantibusque spem ac metum
+### [ 51 ] 
+
+Interim cunctantibus prolatantibusque spem ac metum
 Epicharis quaedam, incertum quonam modo sciscitata (neque illi ante
 ulla rerum honestarum cura fuerat), accendere et arguere coniuratos; ac
 postremum lentitudinis eorum pertaesa et in Campania agens primores
@@ -956,7 +979,9 @@ falsa esse etiam quae vera non probabantur.
  
 
  
-[ 52 ] Coniuratis tamen metu proditionis permotis placitum
+### [ 52 ] 
+
+Coniuratis tamen metu proditionis permotis placitum
 maturare caedem apud Baias in villa Pisonis, cuius amoenitate captus
 Caesar crebro ventitabat balneasque et epulas inibat omissis excubiis et
 fortunae suae mole. sed abnuit Piso, invidiam praetendens, si sacra
@@ -974,7 +999,9 @@ crimine Nero vetus adversum insontem odium expleverit.
  
 
  
-[ 53 ] Tandem statuere circensium ludorum die, qui Cereri
+### [ 53 ] 
+
+Tandem statuere circensium ludorum die, qui Cereri
 celebratur, exsequi destinata, quia Caesar rarus egressu domoque aut
 hortis clausus ad ludicra circi ventitabat promptioresque aditus erant
 laetitia spectaculi. ordinem insidiis composuerant, ut Lateranus, quasi
@@ -995,7 +1022,9 @@ si cupido dominandi cunctis adfectibus flagrantior est.
  
 
  
-[ 54 ] Sed mirum quam inter diversi generis ordines, aetates
+### [ 54 ] 
+
+Sed mirum quam inter diversi generis ordines, aetates
 sexus, dites pauperes taciturnitate omnia cohibita sint, donec proditio
 coepit e domo Scaevini. qui pridie insidiarum multo sermone cum
 Antonio Natale, dein regressus domum testamentum obsignavit,
@@ -1018,7 +1047,9 @@ indicio praevenisset.
  
 
  
-[ 55 ] Igitur coepta luce Milichus in hortos Servilianos pergit;
+### [ 55 ] 
+
+Igitur coepta luce Milichus in hortos Servilianos pergit;
 et cum foribus arceretur, magna et atrocia adferre dictitans deductusque
 ab ianitoribus ad libertum Neronis Epaphroditum, mox ab eo ad
 Neronem, urgens periculum, graves coniuratos et cetera, quae audiverat
@@ -1039,7 +1070,9 @@ cum Scaevino ac secreta collocutum et esse utrosque C. Pisonis intimos.
  
 
  
-[ 56 ] Ergo accitur Natalis, et diversi interrogantur, quisnam is
+### [ 56 ] 
+
+Ergo accitur Natalis, et diversi interrogantur, quisnam is
 sermo, qua de re fuisset. tum exorta suspicio, quia non congruentia
 responderant, inditaque vincla. et tormentorum adspectum ac minas non
 tulere: prior tamen Natalis, totius conspirationis magis gnarus, simul
@@ -1056,7 +1089,9 @@ nominavere.
  
 
  
-[ 57 ] Atque interim Nero recordatus Volusii Proculi indico
+### [ 57 ] 
+
+Atque interim Nero recordatus Volusii Proculi indico
 Epicharin attineri ratusque muliebre corpus impar dolori tormentis
 dilacerari iubet. at illam non verbera, non ignes, non ira eo acrius
 torquentium, ne a femina spernerentur, pervicere, quin obiecta
@@ -1071,7 +1106,9 @@ suorum quisque pignorum proderent.
  
 
  
-[ 58 ] Non enim omittebant Lucanus quoque et Senecio et
+### [ 58 ] 
+
+Non enim omittebant Lucanus quoque et Senecio et
 Quintianus passim conscios edere, magis magisque pavido Nerone,
 quamquam multiplicatis excubiis semet saepsisset. quin et urbem per
 manipulos occupatis moenibus, insesso etiam mari et amne, velut in
@@ -1090,7 +1127,9 @@ referentis.
  
 
  
-[ 59 ] Fuere qui prodita coniuratione, dum auditur Milichus,
+### [ 59 ] 
+
+Fuere qui prodita coniuratione, dum auditur Milichus,
 dum dubitat Scaevinus, hortarentur Pisonem pergere in castra aut rostra
 escendere studiaque militum et populi temptare. si conatibus eius
 conscii adgregarentur, secuturos etiam integros; magnamque motae rei
@@ -1115,7 +1154,9 @@ illa impudica Pisonis infamiam propagavere.
  
 
  
-[ 60 ] Proximam necem Plautii Laterani consulis designati Nero
+### [ 60 ] 
+
+Proximam necem Plautii Laterani consulis designati Nero
 adiungit, adeo propere, ut non complect liberos, non illud breve mortis
 arbitrium permitteret. raptus in locum servilibus poenis sepositum manu
 Statii tribuni trucidatur, plenus constantis silentii nec tribuno obiciens
@@ -1136,7 +1177,9 @@ Paulina uxore et amicis duobus epulanti mandata imperatoris edidit.
  
 
  
-[ 61 ] Seneca missum ad se Natalem conquestumque nomine
+### [ 61 ] 
+
+Seneca missum ad se Natalem conquestumque nomine
 Pisonis, quod a visendo eo prohiberetur, seque rationem valetudinis et
 amorem quietis excusavisse respondit. cur salutem privati hominis
 incolumitati suae anteferret, causam non habuisse; nec sibi promptum
@@ -1156,7 +1199,9 @@ qui necessitatem ultimam denuntiaret.
  
 
  
-[ 62 ] Ille interritus poscit testamenti tabulas; ac denegante
+### [ 62 ] 
+
+Ille interritus poscit testamenti tabulas; ac denegante
 centurione conversus ad amicos, quando meritis eorum referre gratiam
 prohoberetur, quod unum iam et tamen pulcherrimum habeat, imaginem
 vitae suae relinquere testatur, cuius si memores essent, bonarum artium
@@ -1169,7 +1214,9 @@ interfectos, quam ut educatoris praeceptorisque necem adiceret.
  
 
  
-[ 63 ] Ubi haec atque talia velut in commune disseruit,
+### [ 63 ] 
+
+Ubi haec atque talia velut in commune disseruit,
 complectitur uxorem, et paululum adversus praesentem fortitudinem
 mollitus rogat oratque temperaret dolori [neu] aeternum susciperet,
 sed in contemplatione vitae per virtutem actae desiderium mariti solaciis
@@ -1189,7 +1236,9 @@ eius verbis invertere supersedeo.
  
 
  
-[ 64 ] At Nero nullo in Paulinam proprio odio, ac ne glisceret
+### [ 64 ] 
+
+At Nero nullo in Paulinam proprio odio, ac ne glisceret
 invidia crudelitas, [iubet] inhiberi mortem. hortantibus militibus
 servi libertique obligant brachia, premunt sanguinem, incertum an
 ignarae. nam, ut est vulgus ad deteriora promptum, non defuere qui
@@ -1211,7 +1260,9 @@ consuleret.
  
 
  
-[ 65 ] Fama fuit Subrium Flavum cum centurionibus occulto
+### [ 65 ] 
+
+Fama fuit Subrium Flavum cum centurionibus occulto
 consilio, neque tamen ignorante Seneca, destinavisse, ut post occisum
 opera Pisonis Neronem Piso quoque interficeretur tradereturque
 imperium Senecae, quasi insonti et claritudine virtutum ad summum
@@ -1221,7 +1272,9 @@ Nero cithara, ita Piso tragico ornatu canebat).
  
 
  
-[ 66 ] Ceterum militaris quoque conspiratio non ultra fefellit,
+### [ 66 ] 
+
+Ceterum militaris quoque conspiratio non ultra fefellit,
 accensis [quoque] indicibus ad prodendum Faenium Rufum, quem
 eundem conscium et inquisitorem non tolerabant. ergo instanti
 minitantique renidens Scaevinus neminem ait plura scire quam ipsum,
@@ -1233,7 +1286,9 @@ insigne corporis robur adstabat, corripitur vinciturque.
  
 
  
-[ 67 ] Mox eorundem indicio Subrius Flavus tribunus
+### [ 67 ] 
+
+Mox eorundem indicio Subrius Flavus tribunus
 pervertitur, primo dissimilitudinem morum ad defensionem trahens,
 neque se armatum cum inermibus et effeminatis tantum facinus
 consociaturum; dein, postquam urgebatur, confessionis gloriam
@@ -1254,7 +1309,9 @@ apud Neronem iactavit, sesquiplaga interfectum a se dicendo.
  
 
  
-[ 68 ] Proximum constantiae exemplum Sulpicius Asper
+### [ 68 ] 
+
+Proximum constantiae exemplum Sulpicius Asper
 centurio praebuit, percunctanti Neroni, cur in caedam suam
 conspiravisset, breviter respondens non aliter tot flagitiis eius subveniri
 potuisse. tum iussam poenam subiit. nec ceteri centuriones in
@@ -1273,7 +1330,9 @@ et Caesarem esse.
  
 
  
-[ 69 ] Igitur non crimine, non accusatore existente, quia
+### [ 69 ] 
+
+Igitur non crimine, non accusatore existente, quia
 speciem iudicis induere non poterat, ad vim dominationis conversus
 Gerellanum tribunum cum cohorte militum immittit. iubetque
 praevenire conatus consulis, occupare velut arcem eius, opprimere
@@ -1291,7 +1350,9 @@ consularibus.
  
 
  
-[ 70 ] Exim Annaei Lucani caedem imperat is profluente
+### [ 70 ] 
+
+Exim Annaei Lucani caedem imperat is profluente
 sanguine ubi frigescere pedes manusque et paulatim ab extremis cedere
 spiritum fervido adhuc et compote mentis pectore intellegit, recordatus
 carmen a se compositum, quo vulneratum militem per eius modi mortis
@@ -1302,7 +1363,9 @@ memorando.
  
 
  
-[ 71 ] Sed compleri interim urbs funeribus, Capitoliam
+### [ 71 ] 
+
+Sed compleri interim urbs funeribus, Capitoliam
 victimis; alius filio, fratre alius aut propinquo aut amico interfectis,
 agere grates dies, ornare lauru domum, genua ipsius advolvi et dextram
 osculis fatigare. atque ille gaudium id credens Antonii Natalis et
@@ -1329,7 +1392,9 @@ supplicio dissimulata.
  
 
  
-[ 72 ] Quibus perpetratis Nero et contione militum habita bina
+### [ 72 ] 
+
+Quibus perpetratis Nero et contione militum habita bina
 nummum milia viritim manipularibus divisit addiditque sine pretio
 frumentum. quo ante ex modo annonae utebantur. tum quasi gesta bello
 expositurus, vocat senatum et triumphale decus Petronio Turpi[li]ano
@@ -1346,7 +1411,9 @@ inlusit. * * *
  
 
  
-[ 73 ] Sed Nero [vocato senatu], oratione inter patres habita,
+### [ 73 ] 
+
+Sed Nero [vocato senatu], oratione inter patres habita,
 edictum apud populum et conlata in libros indicia confessionesque
 damnatorum adiunxit. etenim crebro vulgi rumore lacerabatur,
 tamquam viros [claros] et insontes ob invidiam aut metum
@@ -1362,7 +1429,9 @@ principis novam ad saevitiam retraheret.
  
 
  
-[ 74 ] Tum [decreta] dona et grates deis decernuntur,
+### [ 74 ] 
+
+Tum [decreta] dona et grates deis decernuntur,
 propriusque honos Soli, cum est vetus aedes apud circum, in quo
 facinus parabatur, qui occulta coniurationis [suo] numine retexisset;
 utque circensium Cerialium ludicrum pluribus equorum cursibus
