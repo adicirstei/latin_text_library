@@ -1,4 +1,4 @@
-Ovid: Amores I
+# Ovid: Amores I
 		 
 
 		 
@@ -7,24 +7,24 @@ Ovid: Amores I
 	
  
 
- P. OVIDI NASONIS LIBER PRIMVS AMORES
+## P. OVIDI NASONIS LIBER PRIMVS AMORES
  
 
  
 
  
-     Epigramma Ipsius 
+###     Epigramma Ipsius 
  
 
  
-Qui modo Nasonis fueramus quinque libelli, 
- tres sumus; hoc illi praetulit auctor opus. 
-ut iam nulla tibi nos sit legisse voluptas, 
- at levior demptis poena duobus erit.
+> Qui modo Nasonis fueramus quinque libelli, 
+>  tres sumus; hoc illi praetulit auctor opus. 
+> ut iam nulla tibi nos sit legisse voluptas, 
+>  at levior demptis poena duobus erit.
  
 
  
- I 
+### I 
  
 
  
@@ -63,7 +63,7 @@ cingere litorea flaventia tempora myrto,
  
 
  
- II 
+### II 
  
 
  
@@ -124,7 +124,7 @@ adspice cognati felicia Caesaris arma—
  
 
  
- III 
+### III 
  
 
  
@@ -159,7 +159,7 @@ nos quoque per totum pariter cantabimur orbem,    25
  
 
  
- IV 
+### IV 
  
 
  
@@ -238,7 +238,7 @@ sed quaecumque tamen noctem fortuna sequetur,
  
 
  
- V 
+### V 
  
 
  
@@ -273,7 +273,7 @@ Cetera quis nescit? lassi requievimus ambo.    25
  
 
  
- VI 
+### VI 
  
 
  
@@ -356,7 +356,7 @@ vos quoque, crudeles rigido cum limine postes
  
 
  
- VII 
+### VII 
  
 
  
@@ -433,7 +433,7 @@ neve mei sceleris tam tristia signa supersint,
  
 
  
- VIII 
+### VIII 
  
 
  
@@ -556,7 +556,7 @@ di tibi dent nullosque Lares inopemque senectam,
  
 
  
- IX 
+### IX 
  
 
  
@@ -611,7 +611,7 @@ inde vides agilem nocturnaque bella gerentem.    45
  
 
  
- X 
+### X 
  
 
  
@@ -684,7 +684,7 @@ nec dare, sed pretium posci dedignor et odi;
  
 
  
- XI 
+### XI 
  
 
  
@@ -721,7 +721,7 @@ subscribam: ' VENERI FIDAS SIBI NASO MINISTRAS
  
 
  
- XII 
+### XII 
  
 
  
@@ -760,7 +760,7 @@ quid precer iratus, nisi vos cariosa senectus
  
 
  
- XIII 
+### XIII 
  
 
  
@@ -817,7 +817,7 @@ Iurgia finieram. scires audisse: rubebat—
  
 
  
- XIV 
+### XIV 
  
 
  
@@ -882,7 +882,7 @@ Collige cum vultu mentem! reparabile damnum est.    55
  
 
  
- XV 
+### XV 
  
 
  
