@@ -1,4 +1,4 @@
-Ovid: Tristia I
+# Ovid: Tristia I
 		 
 
 		 
@@ -7,13 +7,13 @@ Ovid: Tristia I
 	
  
 
- P. OVIDI NASONIS TRISTIUM LIBER PRIMUS
+## P. OVIDI NASONIS TRISTIUM LIBER PRIMUS
  
 
  
 
  
-I
+### I
  
 
  
@@ -151,7 +151,7 @@ longa uia est, propera! nobis habitabitur orbis
 
 
  
-II
+### II
  
 
  
@@ -270,7 +270,7 @@ non casu, uos sed sub condicione uocati,
  
 
 
- III
+### III
  
 
  
@@ -382,7 +382,7 @@ uiuat et absentem, quoniam sic fata tulerunt,
 
 
  
-IV
+### IV
  
 
  
@@ -419,7 +419,7 @@ uos animam saeuae fessam subducite morti,
  
 
 
- V
+### V
  
 
  
@@ -512,7 +512,7 @@ at mihi perpetuo patria tellure carendum est,
  
 
 
- VI
+### VI
  
 
  
@@ -557,7 +557,7 @@ quantumcumque tamen praeconia nostra ualebunt,
  
 
 
- VII
+### VII
  
 
  
@@ -606,7 +606,7 @@ quicquid in his igitur uitii rude carmen habebit,
  
 
 
- VIII
+### VIII
  
 
  
@@ -665,7 +665,7 @@ effice, peccati ne sim memor huius, et illo
  
 
 
- IX
+### IX
  
 
  
@@ -740,7 +740,7 @@ qua potes, excusa, nec amici desere causam:
  
 
 
- X
+### X
  
 
  
@@ -799,7 +799,7 @@ uos facite ut uentos, loca cum diuersa petamus,
  
 
 
- XI
+### XI
  
 
  

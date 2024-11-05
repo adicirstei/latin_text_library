@@ -1,4 +1,4 @@
-Ovid: Amores III
+# Ovid: Amores III
 		 
 
 		 
@@ -7,13 +7,13 @@ Ovid: Amores III
 	
  
 
- P. OVIDI NASONIS LIBER TERTIVS AMORES
+## P. OVIDI NASONIS LIBER TERTIVS AMORES
  
 
  
 
  
- I 
+### I 
 
  
 Stat vetus et multos incaedua silva per annos; 
@@ -91,7 +91,7 @@ Mota dedit veniam — teneri properentur Amores,
  
 
  
- II 
+### II 
 
  
 'Non ego nobilium sedeo studiosus equorum; 
@@ -183,7 +183,7 @@ Risit, et argutis quiddam promisit ocellis.
  
 
  
- III 
+### III 
 
  
 Esse deos, i, crede — fidem iurata fefellit, 
@@ -239,7 +239,7 @@ tu tamen illorum moderatius utere dono —
  
 
  
- IV 
+### IV 
 
  Dure vir, inposito tenerae custode puellae 
  nil agis; ingenio est quaeque tuenda suo. 
@@ -294,7 +294,7 @@ sic poteris iuvenum convivia semper inire
  
 
  
- V 
+### V 
 
  'Nox erat, et somnus lassos submisit ocellos; 
  terruerunt animum talia visa meum: 
@@ -347,7 +347,7 @@ Dixerat interpres. gelido mihi sanguis ab ore
  
 
  
- VI 
+### VI 
 
  Amnis harundinibus limosas obsite ripas, 
  ad dominam propero — siste parumper aquas! 
@@ -460,7 +460,7 @@ at tibi pro meritis, opto, non candide torrens,
  
 
  
- VII 
+### VII 
 
  At non formosa est, at non bene culta puella, 
  at, puto, non votis saepe petita meis! 
@@ -551,7 +551,7 @@ neve suae possent intactam scire ministrae,
  
 
  
- VIII 
+### VIII 
 
  Et quisquam ingenuas etiamnunc suspicit artes, 
  aut tenerum dotes carmen habere putat? 
@@ -624,7 +624,7 @@ o si neclecti quisquam deus ultor amantis
  
 
  
- IX 
+### IX 
 
  Memnona si mater, mater ploravit Achillem, 
  et tangunt magnas tristia fata deas, 
@@ -699,7 +699,7 @@ ossa quieta, precor, tuta requiescite in urna,
  
 
  
- X 
+### X 
 
  Annua venerunt Cerealis tempora sacri; 
  secubat in vacuo sola puella toro. 
@@ -754,7 +754,7 @@ festa dies Veneremque vocat cantusque merumque;
  
 
  
- XIa 
+### XIa 
 
  Multa diuque tuli; vitiis patientia victa est; 
  cede fatigato pectore, turpis amor! 
@@ -789,7 +789,7 @@ iam mea votiva puppis redimita corona
 desine blanditias et verba, potentia quondam, 
  perdere — non ego nunc stultus, ut ante fui!
  
- XIb 
+### XIb 
 
  
 Luctantur pectusque leve in contraria tendunt 
@@ -817,7 +817,7 @@ lintea dem potius ventisque ferentibus utar,
  
 
  
- XII 
+### XII 
 
  Quis fuit ille dies, quo tristia semper amanti 
  omina non albae concinuistis aves? 
@@ -868,7 +868,7 @@ et mea debuerat falso laudata videri
  
 
  
- XIII 
+### XIII 
 
  Cum mihi pomiferis coniunx foret orta Faliscis, 
  moenia contigimus victa, Camille, tibi. 
@@ -911,7 +911,7 @@ ille suos docuit Iunonia sacra Faliscos.
  
 
  
- XIV 
+### XIV 
 
  Non ego, ne pecces, cum sis formosa, recuso, 
  sed ne sit misero scire necesse mihi; 
@@ -968,7 +968,7 @@ cum tibi contingat verbis superare duobus,
  
 
  
- XV 
+### XV 
 
  Quaere novum vatem, tenerorum mater Amorum! 
  raditur hic elegis ultima meta meis; 

@@ -1,4 +1,4 @@
-Ovid: Ovid: Tristia V
+# Ovid: Ovid: Tristia V
 		 
 
 		 
@@ -7,13 +7,13 @@ Ovid: Ovid: Tristia V
 	
  
 
- P. OVIDI NASONIS TRISTIUM LIBER QUINTUS
+## P. OVIDI NASONIS TRISTIUM LIBER QUINTUS
  
 
  
 
  
- I 
+### I 
  
 
  
@@ -103,7 +103,7 @@ Hunc quoque de Getico, nostri studiose, libellum
  
 
  
- II 
+### II 
  
 
  
@@ -191,7 +191,7 @@ Hunc quoque de Getico, nostri studiose, libellum
  
 
  
- III 
+### III 
  
 
  
@@ -259,7 +259,7 @@ Hunc quoque de Getico, nostri studiose, libellum
  
 
  
- IV 
+### IV 
  
 
  
@@ -319,7 +319,7 @@ Hunc quoque de Getico, nostri studiose, libellum
  
 
  
- V 
+### V 
  
 
  
@@ -393,7 +393,7 @@ Hunc quoque de Getico, nostri studiose, libellum
  
 
  
- VI 
+### VI 
  
 
  
@@ -449,7 +449,7 @@ Hunc quoque de Getico, nostri studiose, libellum
  
 
  
- VII 
+### VII 
  
 
  
@@ -527,7 +527,7 @@ Hunc quoque de Getico, nostri studiose, libellum
  
 
  
- VIII 
+### VIII 
  
 
  
@@ -575,7 +575,7 @@ Hunc quoque de Getico, nostri studiose, libellum
  
 
  
- IX 
+### IX 
  
 
  
@@ -623,7 +623,7 @@ Hunc quoque de Getico, nostri studiose, libellum
  
 
  
- X 
+### X 
  
 
  
@@ -685,7 +685,7 @@ Hunc quoque de Getico, nostri studiose, libellum
  
 
  
- XI 
+### XI 
  
 
  
@@ -725,7 +725,7 @@ Hunc quoque de Getico, nostri studiose, libellum
  
 
  
- XII 
+### XII 
  
 
  
@@ -801,7 +801,7 @@ Scribis, ut oblectem studio lacrimabile tempus,
  
 
  
- XIII 
+### XIII 
  
 
  
@@ -845,7 +845,7 @@ Scribis, ut oblectem studio lacrimabile tempus,
  
 
  
- XIV 
+### XIV 
  
 
  

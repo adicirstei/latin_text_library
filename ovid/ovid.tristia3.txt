@@ -1,4 +1,4 @@
-Ovid: Ovid: Tristia III
+# Ovid: Ovid: Tristia III
 		 
 
 		 
@@ -7,13 +7,13 @@ Ovid: Ovid: Tristia III
 	
  
 
- P. OVIDI NASONIS TRISTIUM LIBER TERTIUS
+## P. OVIDI NASONIS TRISTIUM LIBER TERTIUS
  
 
  
 
  
- I 
+### I 
  
 
  
@@ -105,7 +105,7 @@ Ovid: Ovid: Tristia III
  
 
  
- II 
+### II 
  
 
  
@@ -145,7 +145,7 @@ Ovid: Ovid: Tristia III
  
 
  
- III 
+### III 
  
 
  
@@ -243,7 +243,7 @@ Ovid: Ovid: Tristia III
  
 
  
- IV 
+### IV 
  
 
  
@@ -299,7 +299,7 @@ Ovid: Ovid: Tristia III
  
 
  
- IV B 
+### IV B 
  
 
  
@@ -341,7 +341,7 @@ Proxima sideribus tellus Erymanthidos Vrsae
  
 
  
- V 
+### V 
  
 
  
@@ -407,7 +407,7 @@ Proxima sideribus tellus Erymanthidos Vrsae
  
 
  
- VI 
+### VI 
  
 
  
@@ -455,7 +455,7 @@ Proxima sideribus tellus Erymanthidos Vrsae
  
 
  
- VII 
+### VII 
  
 
  
@@ -519,7 +519,7 @@ Proxima sideribus tellus Erymanthidos Vrsae
  
 
  
- VIII 
+### VIII 
  
 
  
@@ -571,7 +571,7 @@ Proxima sideribus tellus Erymanthidos Vrsae
  
 
  
- IX 
+### IX 
  
 
  
@@ -615,7 +615,7 @@ Proxima sideribus tellus Erymanthidos Vrsae
  
 
  
- X 
+### X 
  
 
  
@@ -701,7 +701,7 @@ Proxima sideribus tellus Erymanthidos Vrsae
  
 
  
- XI 
+### XI 
  
 
  
@@ -785,7 +785,7 @@ Proxima sideribus tellus Erymanthidos Vrsae
  
 
  
- XII 
+### XII 
  
 
  
@@ -849,7 +849,7 @@ Proxima sideribus tellus Erymanthidos Vrsae
  
 
  
- XIII 
+### XIII 
  
 
  
@@ -887,7 +887,7 @@ Proxima sideribus tellus Erymanthidos Vrsae
  
 
  
- XIV 
+### XIV 
  
 
  

@@ -1,4 +1,4 @@
-Ovid: Fasti V
+# Ovid: Fasti V
 		 
 
 		 
@@ -7,7 +7,7 @@ Ovid: Fasti V
 	
  
 
- P. OVIDI NASONIS FASTORVM LIBER QVINTVS
+ ## P. OVIDI NASONIS FASTORVM LIBER QVINTVS
  
 
  
@@ -17,7 +17,7 @@ Quaeritis unde putem Maio data nomina mensi?  non satis est liquido cognita caus
  
 
  
- 1. A K : MAI : F 
+### 1. A K : MAI : F 
  
 
  
@@ -25,7 +25,7 @@ Ab Iove surgat opus. prima mihi nocte videnda  stella est in cunas officiosa Iov
  
 
  
- 2. B F 
+### 2. B F 
  
 
  
@@ -33,7 +33,7 @@ Postera cum roseam pulsis Hyperionis astris  in matutinis lampada tollet equis, 
  
 
  
- 3. C C 
+### 3. C C 
  
 
  
@@ -41,7 +41,7 @@ Postera cum roseam pulsis Hyperionis astris  in matutinis lampada tollet equis, 
  
 
  
- (4. D C) 5. E C 
+### (4. D C) 5. E C 
  
 
  
@@ -49,7 +49,7 @@ Hunc Lyra curva sequi cuperet, sed idonea nondum  est via: nox aptum tertia temp
  
 
  
- 6. F C 
+### 6. F C 
  
 
  
@@ -57,7 +57,7 @@ Scorpios in caelo, cum cras lucescere Nonas  dicimus, a media parte notandus eri
  
 
  
- (7. G NON : N vel F) 
+### (7. G NON : N vel F) 
  
 
  
@@ -65,7 +65,7 @@ Scorpios in caelo, cum cras lucescere Nonas  dicimus, a media parte notandus eri
  
 
  
- (8. H F) 9. A LEM : N 
+### (8. H F) 9. A LEM : N 
  
 
  
@@ -73,7 +73,7 @@ Hinc ubi protulerit formosa ter Hesperos ora,  ter dederint Phoebo sidera victa 
  
 
  
- 10. B C 11. C LEM : N 
+### 10. B C 11. C LEM : N 
  
 
  
@@ -81,7 +81,7 @@ Quorum si mediis Boeotum Oriona quaeres,  falsus eris: signi causa canenda mihi.
  
 
  
- 12. D NP 
+### 12. D NP 
  
 
  
@@ -89,7 +89,7 @@ Sed quid et Orion et cetera sidera mundo  cedere festinant, noxque coartat iter?
  
 
  
- 13. E LEM : N 
+### 13. E LEM : N 
  
 
  
@@ -97,7 +97,7 @@ Pliadas aspicies omnes totumque sororum  agmen, ubi ante Idus nox erit una super
  
 
  
- 14. F C 
+### 14. F C 
  
 
  
@@ -105,7 +105,7 @@ Idibus ora prior stellantia tollere Taurum  indicat: huic signo fabula nota sube
  
 
  
- 15. G EID : NP (16. H F) 
+### 15. G EID : NP (16. H F) 
  
 
  
@@ -113,7 +113,7 @@ Idibus ora prior stellantia tollere Taurum  indicat: huic signo fabula nota sube
  
 
  
- (17. A C) (18. B C) (19. C C) 
+### (17. A C) (18. B C) (19. C C) 
  
 
  
@@ -121,7 +121,7 @@ Clare nepos Atlantis, ades, quem montibus olim  edidit Arcadiis Pleias una Iovi:
  
 
  
- 20. D C 
+### 20. D C 
  
 
  
@@ -129,7 +129,7 @@ At mihi pande, precor, tanto meliora petenti,  in Geminos ex quo tempore Phoebus
  
 
  
- 21. E AGON : NP 
+### 21. E AGON : NP 
  
 
  
@@ -137,7 +137,7 @@ Ad Ianum redeat, qui quaerit Agonia quid sint:  quae tamen in fastis hoc quoque 
  
 
  
- 22. F N 
+### 22. F N 
  
 
  
@@ -145,7 +145,7 @@ Nocte sequente diem canis Erigoneius exit:  est alio signi reddita causa loco.
  
 
  
- 23. G TVB : NP 
+### 23. G TVB : NP 
  
 
  
@@ -153,7 +153,7 @@ Proxima Volcani lux est, Tubilustria dicunt:  lustrantur purae, quas facit ille,
  
 
  
- 24. H Q : REX C : F 
+### 24. H Q : REX C : F 
  
 
  
@@ -161,7 +161,7 @@ Quattuor inde notis locus est, quibus ordine lectis  vel mos sacrorum vel fuga r
  
 
  
- 25. A C 26. B C 27. C C (28. D C) (29. E C) (30. F C) (31. G C) 
+### 25. A C 26. B C 27. C C (28. D C) (29. E C) (30. F C) (31. G C) 
  
 
  

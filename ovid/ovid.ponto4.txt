@@ -1,4 +1,4 @@
-Ovid: Ex Ponto IV
+# Ovid: Ex Ponto IV
 		 
 
 		 
@@ -7,13 +7,12 @@ Ovid: Ex Ponto IV
 	
  
 
- P. OVIDI NASIONIS EPISTVLAE EX PONTO 
-LIBER QVARTVS 
+## P. OVIDI NASIONIS EPISTVLAE EX PONTO LIBER QVARTVS 
 
  
 
  
- I. SEX. POMPEIO 
+### I. SEX. POMPEIO 
  
 
  
@@ -56,7 +55,7 @@ LIBER QVARTVS
  
 
  
- II. SEVERO 
+### II. SEVERO 
  
 
  
@@ -113,7 +112,7 @@ LIBER QVARTVS
  
 
  
- III. AD INGRATVM 
+### III. AD INGRATVM 
  
 
  
@@ -178,7 +177,7 @@ LIBER QVARTVS
  
 
  
- IV. SEX. POMPEIO 
+### IV. SEX. POMPEIO 
  
 
  
@@ -235,7 +234,7 @@ LIBER QVARTVS
  
 
  
- V. SEX. POMPEIO 
+### V. SEX. POMPEIO 
  
 
  
@@ -288,7 +287,7 @@ LIBER QVARTVS
  
 
  
- VI. BRVTO 
+### VI. BRVTO 
  
 
  
@@ -345,7 +344,7 @@ LIBER QVARTVS
  
 
  
- VII. VESTALI 
+### VII. VESTALI 
  
 
  
@@ -406,7 +405,7 @@ LIBER QVARTVS
  
 
  
- VIII. SVILLIO 
+### VIII. SVILLIO 
  
 
  
@@ -503,7 +502,7 @@ LIBER QVARTVS
  
 
  
- IX. GRAECINO 
+### IX. GRAECINO 
  
 
  
@@ -644,7 +643,7 @@ LIBER QVARTVS
  
 
  
- X. ALBINOVANO 
+### X. ALBINOVANO 
  
 
  
@@ -735,7 +734,7 @@ LIBER QVARTVS
  
 
  
- XI. GALLIONI 
+### XI. GALLIONI 
  
 
  
@@ -764,7 +763,7 @@ LIBER QVARTVS
  
 
  
- XII. TVTICANO 
+### XII. TVTICANO 
  
 
  
@@ -821,7 +820,7 @@ LIBER QVARTVS
  
 
  
- XIII. CARO 
+### XIII. CARO 
  
 
  
@@ -878,7 +877,7 @@ LIBER QVARTVS
  
 
  
- XIV. TVTICANO 
+### XIV. TVTICANO 
  
 
  
@@ -947,7 +946,7 @@ LIBER QVARTVS
  
 
  
- XV. SEX. POMPEIO 
+### XV. SEX. POMPEIO 
  
 
  
@@ -996,7 +995,7 @@ LIBER QVARTVS
  
 
  
- XVI. AD INVIDVM 
+### XVI. AD INVIDVM 
  
 
  

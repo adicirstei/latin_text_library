@@ -1,4 +1,4 @@
-Ovid: Fasti IV
+# Ovid: Fasti IV
 		 
 
 		 
@@ -7,7 +7,7 @@ Ovid: Fasti IV
 	
  
 
- P. OVIDI NASONIS FASTORVM LIBER QVARTVS
+## P. OVIDI NASONIS FASTORVM LIBER QVARTVS
  
 
  
@@ -149,7 +149,7 @@ Ovid: Fasti IV
  
 
  
- 1. C K : APRIL : F 
+### 1. C K : APRIL : F 
  
 
  
@@ -190,7 +190,7 @@ Rite deam colitis, Latiae matresque nurusque
  
 
  
- 2. D F 
+### 2. D F 
  
 
  
@@ -213,7 +213,7 @@ Nox ubi transierit, caelumque rubescere primo
  
 
  
- (3. EC) 4. FC 
+### (3. EC) 4. FC 
  
 
  
@@ -416,7 +416,7 @@ Ter sine perpetuo caelum versetur in axe,
  
 
  
- 5. G NON : N 
+### 5. G NON : N 
  
 
  
@@ -429,7 +429,7 @@ Postera cum caelo motis Pallantias astris
  
 
  
- 6. H NP (7. AN) (8. BN) 9. CN 
+### 6. H NP (7. AN) (8. BN) 9. CN 
  
 
  
@@ -450,7 +450,7 @@ Tertia lux (memini) ludis erat, ac mihi quidam
  
 
  
- 10. DN 
+### 10. DN 
 
  
 
@@ -464,7 +464,7 @@ Proxima victricem cum Romam inspexerit Eos
  
 
  
- 11. EN 12. FN 
+### 11. EN 12. FN 
  
 
  
@@ -701,7 +701,7 @@ Hinc Cereris ludi: non est opus indice causae;
  
 
  
- 13. G EID : NP 
+### 13. G EID : NP 
  
 
  
@@ -714,7 +714,7 @@ Occupat Apriles Idus cognomine Victor
  
 
  
- 14. HN 
+### 14. HN 
  
 
  
@@ -727,7 +727,7 @@ Luce secutura tutos pete, navita, portus:
  
 
  
- 15. A FORD : NP 16. BN 
+### 15. A FORD : NP 16. BN 
  
 
  
@@ -784,7 +784,7 @@ Tertia post Veneris cum lux surrexerit Idus,
  
 
  
- 17. CN (18. DN) 
+### 17. CN (18. DN) 
  
 
  
@@ -795,7 +795,7 @@ Sed iam praeteritas quartus tibi Lucifer Idus
  
 
  
- 19. E CER : NP 
+### 19. E CER : NP 
  
 
  
@@ -838,7 +838,7 @@ Tertia post Hyadas cum lux erit orta remotas,
  
 
  
- 20. FN 
+### 20. FN 
  
 
  
@@ -855,7 +855,7 @@ Proxima cum veniet terras visura patentes
  
 
  
- 21. G PAR : NP 
+### 21. G PAR : NP 
  
 
  
@@ -1006,7 +1006,7 @@ Nox abiit, oriturque aurora: Parilia poscor;
  
 
  
- (22. HN) 23. A VIN : F P (ut vid.)
+### (22. HN) 23. A VIN : F P (ut vid.)
  
 
  
@@ -1053,7 +1053,7 @@ Dicta Pales nobis: idem Vinalia dicam.
  
 
  
- (24. BC) 25. C ROB : NP 
+### (24. BC) 25. C ROB : NP 
  
 
  
@@ -1104,7 +1104,7 @@ Sex ubi, quae restant, luces Aprilis habebit,
  
 
  
- (26. DF) (27. EC) 28. F NP 29. GC 30. HC 
+### (26. DF) (27. EC) 28. F NP 29. GC 30. HC 
  
 
  

@@ -1,4 +1,4 @@
-Ovid: Ex Ponto III
+# Ovid: Ex Ponto III
 		 
 
 		 
@@ -7,14 +7,13 @@ Ovid: Ex Ponto III
 	
  
 
- P. OVIDI NASIONIS EPISTVLAE EX PONTO 
-LIBER TERTIVS
+## P. OVIDI NASIONIS EPISTVLAE EX PONTO LIBER TERTIVS
  
 
  
 
  
- I. VXORI 
+### I. VXORI 
  
 
  
@@ -187,7 +186,7 @@ LIBER TERTIVS
  
 
  
- II. COTTAE 
+### II. COTTAE 
  
 
  
@@ -304,7 +303,7 @@ LIBER TERTIVS
  
 
  
- III. FABIO MAXIMO 
+### III. FABIO MAXIMO 
  
 
  
@@ -419,7 +418,7 @@ LIBER TERTIVS
  
 
  
- IV. RVFINO 
+### IV. RVFINO 
  
 
  
@@ -542,7 +541,7 @@ LIBER TERTIVS
  
 
  
- V. COTTAE MAXIMO 
+### V. COTTAE MAXIMO 
  
 
  
@@ -607,7 +606,7 @@ LIBER TERTIVS
  
 
  
- VI. AD AMICVM CELATO NOMINE 
+### VI. AD AMICVM CELATO NOMINE 
  
 
  
@@ -674,7 +673,7 @@ LIBER TERTIVS
  
 
  
- VII. AD AMICOS 
+### VII. AD AMICOS 
  
 
  
@@ -721,7 +720,7 @@ LIBER TERTIVS
  
 
  
- VIII. FABIO MAXIMO 
+### VIII. FABIO MAXIMO 
  
 
  
@@ -752,7 +751,7 @@ LIBER TERTIVS
  
 
  
- IX. BRVTO 
+### IX. BRVTO 
  
 
  

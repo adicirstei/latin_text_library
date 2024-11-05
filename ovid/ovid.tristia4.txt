@@ -1,4 +1,4 @@
-Ovid: Ovid: Tristia IV
+# Ovid: Ovid: Tristia IV
 		 
 
 		 
@@ -7,13 +7,13 @@ Ovid: Ovid: Tristia IV
 	
  
 
- P. OVIDI NASONIS TRISTIUM LIBER QUARTUS
+## P. OVIDI NASONIS TRISTIUM LIBER QUARTUS
  
 
  
 
  
- I 
+### I 
  
 
  
@@ -128,7 +128,7 @@ Siqua meis fuerint, ut erunt, vitiosa libellis,
  
 
  
- II 
+### II 
  
 
  
@@ -211,7 +211,7 @@ Siqua meis fuerint, ut erunt, vitiosa libellis,
  
 
  
- III 
+### III 
  
 
  
@@ -304,7 +304,7 @@ Siqua meis fuerint, ut erunt, vitiosa libellis,
  
 
  
- IV 
+### IV 
  
 
  
@@ -401,7 +401,7 @@ Siqua meis fuerint, ut erunt, vitiosa libellis,
  
 
  
- V 
+### V 
  
 
  
@@ -444,7 +444,7 @@ Siqua meis fuerint, ut erunt, vitiosa libellis,
  
 
  
- VI 
+### VI 
  
 
  
@@ -503,7 +503,7 @@ Siqua meis fuerint, ut erunt, vitiosa libellis,
  
 
  
- VII 
+### VII 
  
 
  
@@ -538,7 +538,7 @@ Siqua meis fuerint, ut erunt, vitiosa libellis,
  
 
  
- VIII 
+### VIII 
  
 
  
@@ -599,7 +599,7 @@ Siqua meis fuerint, ut erunt, vitiosa libellis,
  
 
  
- IX 
+### IX 
  
 
  
@@ -640,7 +640,7 @@ Siqua meis fuerint, ut erunt, vitiosa libellis,
  
 
  
- X 
+### X 
  
 
  

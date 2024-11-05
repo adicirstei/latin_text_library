@@ -1,4 +1,4 @@
-Ovid: Fasti I
+# Ovid: Fasti I
 		 
 
 		 
@@ -7,7 +7,7 @@ Ovid: Fasti I
 	
  
 
- P. OVIDI NASONIS FASTORVM LIBER PRIMVS
+## P. OVIDI NASONIS FASTORVM LIBER PRIMVS
  
 
  
@@ -79,7 +79,7 @@ haec mihi dicta semel, totis haerentia fastis,
 
  
 
- 1. A K : IAN : F 
+### 1. A K : IAN : F 
 
  
 
@@ -321,7 +321,7 @@ Iuppiter in parte est: cepit locus unus utrumque
 
  
 
- (2. B F) 3. C C (4. D C) 
+### (2. B F) 3. C C (4. D C) 
 
  
 
@@ -351,7 +351,7 @@ octipedis frustra quaerentur bracchia Cancri:
 
  
 
- 5. E NON : F 
+### 5. E NON : F 
 
  
 
@@ -363,7 +363,7 @@ Institerint Nonae, missi tibi nubibus atris
 
  
 
- (6. F F) (7. G C) (8. H C) 9. A AGON : (? NP) 
+### (6. F F) (7. G C) (8. H C) 9. A AGON : (? NP) 
 
  
 
@@ -515,7 +515,7 @@ Interea Delphin clarum super aequora sidus
 
  
 
- 10. B EN 
+### 10. B EN 
 
  
 
@@ -527,7 +527,7 @@ Postera lux hiemem medio discrimine signat,
 
  
 
- 11. C CAR : NP (12. D C) 
+### 11. C CAR : NP (12. D C) 
 
  
 
@@ -663,7 +663,7 @@ at felix vates, ut dis gratissima vixit,    585
 
  
 
- 13. E EID : NP (14. F EN) 
+### 13. E EID : NP (14. F EN) 
 
  
 
@@ -702,7 +702,7 @@ auspicibusque deis tanti cognominis heres    615
 
  
 
- 15. G CAR : NP 
+### 15. G CAR : NP 
 
  
 
@@ -732,7 +732,7 @@ altera quod porro fuerat cecinisse putatur,    635
 
  
 
- 16. H C (NP inde ab anno 10 p. C.)
+### 16. H C (NP inde ab anno 10 p. C.)
 
  
 
@@ -756,13 +756,13 @@ hanc tua constituit genetrix et rebus et ara,
 
  
 
- 17. A C 
+### 17. A C 
 
  
 
  
 
- (18. B C) (19. C C) (20. D C) (21. E C) (22. F C) 23. G C 
+### (18. B C) (19. C C) (20. D C) (21. E C) (22. F C) 23. G C 
 
  
 
@@ -776,7 +776,7 @@ septimus hinc Oriens cum se demiserit undis,
 
  
 
- 24. H C (25. A C) (26. B C) 
+### 24. H C (25. A C) (26. B C) 
 
  
 
@@ -836,7 +836,7 @@ sub iuga bos veniat, sub terras semen aratas:
 
  
 
- 27. C C (28. D C) (29. E F [? NP]) 
+### 27. C C (28. D C) (29. E F [? NP]) 
 
  
 
@@ -850,7 +850,7 @@ fratribus illa deis fratres de gente deorum
 
  
 
- 30. F NP (31. GC) 
+### 30. F NP (31. GC) 
  
 
  

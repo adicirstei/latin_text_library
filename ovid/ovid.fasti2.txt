@@ -1,4 +1,4 @@
-Ovid: Fasti II
+# Ovid: Fasti II
 		 
 
 		 
@@ -7,7 +7,7 @@ Ovid: Fasti II
 	
  
 
- P. OVIDI NASONIS FASTORVM LIBER SECVNDVS
+## P. OVIDI NASONIS FASTORVM LIBER SECVNDVS
  
 
  
@@ -72,7 +72,7 @@ postmodo creduntur spatio distantia longo
 
  
 
-  1. H : K : FEB : N    54a 
+###  1. H : K : FEB : N    54a 
  
 
  
@@ -100,7 +100,7 @@ saepe graves pluvias adopertus nubibus aether
 
  
 
-  2. A N    72a 
+###  2. A N    72a 
  
 
  
@@ -116,7 +116,7 @@ dumque Lyram quaeret, medii quoque terga Leonis
 
  
 
-  3. B N    78a 
+###  3. B N    78a 
  
 
  
@@ -166,7 +166,7 @@ di pia facta vident: astris delphina recepit
 
  
 
-  (4. C N) 5. D NON : NP    118a 
+###  (4. C N) 5. D NON : NP    118a 
  
 
  
@@ -206,7 +206,7 @@ en etiam, siquis Borean horrere solebat,
 
  
 
-  (6. E N) (7. F N) (8. G N) (9. H N vel NP) 10. A N    148a 
+###  (6. E N) (7. F N) (8. G N) (9. H N vel NP) 10. A N    148a 
  
 
  
@@ -220,7 +220,7 @@ ne fallare tamen, restant tibi frigora, restant,
 
  
 
-  (11. B N) 12. C N    152a 
+###  (11. B N) 12. C N    152a 
  
 
  
@@ -270,7 +270,7 @@ saevit adhuc canamque rogat Saturnia Tethyn
 
  
 
-  13. D EID : NP    192a 
+###  13. D EID : NP    192a 
  
 
  
@@ -330,7 +330,7 @@ scilicet ut posses olim tu, Maxime, nasci,
 
  
 
-  14. E N    242a 
+###  14. E N    242a 
  
 
  
@@ -364,7 +364,7 @@ dixit, et, antiqui monimenta perennia facti,    265
 
  
 
-  15. F LVPER : NP    266a 
+###  15. F LVPER : NP    266a 
  
 
  
@@ -582,7 +582,7 @@ inde nefas ducunt genus hoc imponere mensis
 
  
 
-  (16. G EN) 17. H QVIR : NP    474a 
+###  (16. G EN) 17. H QVIR : NP    474a 
  
 
  
@@ -650,7 +650,7 @@ stultaque pars populi quae sit sua curia nescit,
 
  
 
-  (18. A C) (19. B C) (20. C C) 21. D FERAL : F vel FP    532a 
+###  (18. A C) (19. B C) (20. C C) 21. D FERAL : F vel FP    532a 
  
 
  
@@ -744,7 +744,7 @@ fitque gravis geminosque parit, qui compita servant    615
 
  
 
-  22. E C    616a 
+###  22. E C    616a 
  
 
  
@@ -776,7 +776,7 @@ et 'bene vos, bene te, patriae pater, optime Caesar'
 
  
 
-  23. F TER : NP    638a 
+###  23. F TER : NP    638a 
  
 
  
@@ -832,7 +832,7 @@ gentibus est aliis tellus data limite certo:
 
  
 
-  24. G REGIF : N    684a 
+###  24. G REGIF : N    684a 
  
 
  
@@ -1014,7 +1014,7 @@ saepe tamen, Procne, nimium properasse quereris,    855
 
  
 
-  (25. H C) (26. A EN) 27. B EQVIR : NP (28. C C)    856a 
+###  (25. H C) (26. A EN) 27. B EQVIR : NP (28. C C)    856a 
  
 
  

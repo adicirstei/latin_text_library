@@ -1,4 +1,4 @@
-Ovid: Ex Ponto II
+# Ovid: Ex Ponto II
 		 
 
 		 
@@ -7,14 +7,13 @@ Ovid: Ex Ponto II
 	
  
 
- P. OVIDI NASIONIS EPISTVLAE EX PONTO 
-LIBER SECVNDVS
+## P. OVIDI NASIONIS EPISTVLAE EX PONTO LIBER SECVNDVS
  
 
  
 
  
- I. <GERMANICO> 
+### I. <GERMANICO> 
  
 
  
@@ -89,7 +88,7 @@ Quae si me saluo dabitur tua laurea templis,
  
 
  
- II. MESSALINO 
+### II. MESSALINO 
  
 
  
@@ -222,7 +221,7 @@ Sic tamen haec tempta, si non nocitura putabis.     125
  
 
  
- III. COTTAE MAXIMO 
+### III. COTTAE MAXIMO 
  
 
  
@@ -329,7 +328,7 @@ Haec ego, cum faceres altaria pinguia ture,
  
 
  
- IV. ATTICO 
+### IV. ATTICO 
  
 
  
@@ -370,7 +369,7 @@ constantique fide ueterem tutare sodalem
  
 
  
- V. SALANO 
+### V. SALANO 
  
 
  
@@ -453,7 +452,7 @@ succedatque suis orbis moderator habenis:     75
  
 
  
- VI. GRAECINO 
+### VI. GRAECINO 
  
 
  
@@ -498,7 +497,7 @@ Quae tu cum praestes, remo tamen utor in aura,
  
 
  
- VII. ATTICO 
+### VII. ATTICO 
  
 
  
@@ -589,7 +588,7 @@ Coepta tene, quaeso, neque in aequore desere nauem
  
 
  
- VIII. COTTAE MAXIMO 
+### VIII. COTTAE MAXIMO 
  
 
  
@@ -672,7 +671,7 @@ Vera precor fiant timidae praesagia mentis     75
  
 
  
- IX. COTYI REGI 
+### IX. COTYI REGI 
  
 
  
@@ -759,7 +758,7 @@ Hac quoniam careo, tua nunc uicinia praestet,
  
 
  
- X. MACRO 
+### X. MACRO 
  
 
  
@@ -818,7 +817,7 @@ Redde uicem et, quoniam regio felicior ista est,
  
 
  
- XI. RVFO 
+### XI. RVFO 
  
 
  

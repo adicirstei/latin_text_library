@@ -1,4 +1,4 @@
-Ovid: Fasti III
+# Ovid: Fasti III
 		 
 
 		 
@@ -7,7 +7,7 @@ Ovid: Fasti III
 	
  
 
- P. OVIDI NASONIS FASTORVM LIBER TERTIVS
+ ## P. OVIDI NASONIS FASTORVM LIBER TERTIVS
  
 
  
@@ -184,7 +184,7 @@ hic anni modus est: in lustrum accedere debet,    165
 
  
 
- 1. D : K : MAR : NP 
+### 1. D : K : MAR : NP 
 
  
 
@@ -427,7 +427,7 @@ His etiam coniunx apicati cincta Dialis
 
  
 
- (2. E F) 3. F C (4. G C) 
+### (2. E F) 3. F C (4. G C) 
 
  
 
@@ -442,7 +442,7 @@ nam duo sunt: Austris hic est, Aquilonibus ille
 
  
 
- 5. H C 
+### 5. H C 
 
  
 
@@ -465,7 +465,7 @@ dum legit in ramo pictas temerarius uvas,
 
  
 
- 6. A NP 
+### 6. A NP 
 
  
 
@@ -490,7 +490,7 @@ quos sancta fovet ille manu, bene vivitis, ignes:
 
  
 
- 7. B NON : F 
+### 7. B NON : F 
 
  
 
@@ -531,7 +531,7 @@ nunc fruitur caelo, quod pinnis ante petebat,
 
  
 
- 8. CF 
+### 8. CF 
  
 
  
@@ -600,8 +600,8 @@ dicta facit, gemmasque novem transformat in ignes:    515
 
  
 
- (9. DC) (10. EC) (11. FC) 
- (12. GC) (13. H EN) 14. A EQVIRR : NP 
+### (9. DC) (10. EC) (11. FC) 
+### (12. GC) (13. H EN) 14. A EQVIRR : NP 
 
  
 
@@ -619,7 +619,7 @@ qui tamen eiecta si forte tenebitur unda,
 
  
 
- 15. B EID : NP 
+### 15. B EID : NP 
 
  
 
@@ -818,7 +818,7 @@ hoc opus, haec pietas, haec prima elementa fuerunt
 
  
 
- 16. C F 
+### 16. C F 
 
  
 
@@ -831,7 +831,7 @@ Postera cum teneras aurora refecerit herbas,
 
  
 
- 17. D LIB : AGON : NP 
+### 17. D LIB : AGON : NP 
 
  
 
@@ -938,8 +938,8 @@ Iuppiter alitibus rapere imperat: attulit illi
 
  
 
- (18. EC) 19. F QVINQ : NP 
- 20. GC 21. HC 22. AN 
+### (18. EC) 19. F QVINQ : NP 
+### 20. GC 21. HC 22. AN 
  
 
  
@@ -989,7 +989,7 @@ a quacumque trahis ratione vocabula, Pallas,
 
  
 
- 23. B TVBIL : NP 
+### 23. B TVBIL : NP 
 
  
 
@@ -1028,7 +1028,7 @@ litoribus tactis aries fit sidus; at huius    875
 
  
 
- (24. C Q : REX : C : F) (25. DC) 26. EC 
+### (24. C Q : REX : C : F) (25. DC) 26. EC 
 
  
 
@@ -1041,7 +1041,7 @@ Tres ubi Luciferos veniens praemiserit Eos,
 
  
 
- (27. F NP) (28. GC) (29. HC) 30. AC 
+### (27. F NP) (28. GC) (29. HC) 30. AC 
 
  
 
@@ -1057,7 +1057,7 @@ Ianus adorandus cumque hoc Concordia mitis
 
  
 
- 31. BC 
+### 31. BC 
 
  
 

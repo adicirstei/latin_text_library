@@ -1,4 +1,4 @@
-Ovid: Amores II
+# Ovid: Amores II
 		 
 
 		 
@@ -7,13 +7,13 @@ Ovid: Amores II
 	
  
 
- P. OVIDI NASONIS LIBER SECVNDVS AMORES
+## P. OVIDI NASONIS LIBER SECVNDVS AMORES
  
 
  
 
  
- I 
+### I 
  
 
  
@@ -60,7 +60,7 @@ ad mea formosos vultus adhibete, puellae,
  
 
  
- II 
+### II 
  
 
  
@@ -135,7 +135,7 @@ quaerimus, ut tuto per te possimus amare.
  
 
  
- III 
+### III 
  
 
  
@@ -162,7 +162,7 @@ aptius ut fuerit precibus temptasse, rogamus,
  
 
  
- IV 
+### IV 
  
 
  
@@ -219,7 +219,7 @@ Denique quas tota quisquam probet urbe puellas,
  
 
  
- V 
+### V 
  
 
  
@@ -290,7 +290,7 @@ illa nisi in lecto nusquam potuere doceri.
  
 
  
- VI 
+### VI 
  
 
  
@@ -361,7 +361,7 @@ Ossa tegit tumulus—tumulus pro corpore magnus—
  
 
  
- VII 
+### VII 
  
 
  
@@ -398,7 +398,7 @@ scilicet ancillam, quae tam tibi fida, rogarem!
  
 
  
- VIII 
+### VIII 
  
 
  
@@ -435,7 +435,7 @@ quoque loco tecum fuerim, quotiensque, Cypassi,
  
 
  
- IXa 
+### IXa 
  
 
  
@@ -467,7 +467,7 @@ me quoque, qui totiens merui sub amore puellae,
  
 
  
- IXb 
+### IXb 
 
  
 
@@ -507,7 +507,7 @@ accedant regno, nimium vaga turba, puellae!
  
 
  
- X 
+### X 
  
 
  
@@ -554,7 +554,7 @@ atque aliquis nostro lacrimans in funere dicat:
  
 
  
- XI 
+### XI 
  
 
  
@@ -619,7 +619,7 @@ haec mihi quamprimum caelo nitidissimus alto
  
 
  
- XII 
+### XII 
  
 
  
@@ -656,7 +656,7 @@ me quoque, qui multos, sed me sine caede, Cupido
  
 
  
- XIII 
+### XIII 
  
 
  
@@ -693,7 +693,7 @@ Si tamen in tanto fas est monuisse timore,
  
 
  
- XIV 
+### XIV 
  
 
  
@@ -746,7 +746,7 @@ di faciles, peccasse semel concedite tuto,
  
 
  
- XV 
+### XV 
  
 
  
@@ -783,7 +783,7 @@ Inrita quid voveo? parvum proficiscere munus;
  
 
  
- XVI 
+### XVI 
  
 
  
@@ -844,7 +844,7 @@ at vos, qua veniet, tumidi, subsidite, montes,
  
 
  
- XVII 
+### XVII 
  
 
  
@@ -887,7 +887,7 @@ nec nisi tu nostris cantabitur ulla libellis;
  
 
  
- XVIII 
+### XVIII 
  
 
  
@@ -936,7 +936,7 @@ si bene te novi, non bella libentius istis
  
 
  
- XIX 
+### XIX 
  
 
  

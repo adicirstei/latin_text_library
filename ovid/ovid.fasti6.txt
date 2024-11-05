@@ -1,4 +1,4 @@
-Ovid: Fasti VI
+# Ovid: Fasti VI
 		 
 
 		 
@@ -7,7 +7,7 @@ Ovid: Fasti VI
 	
  
 
- P. OVIDI NASONIS FASTORUM LIBER SEXTVS
+## P. OVIDI NASONIS FASTORUM LIBER SEXTVS
  
 
  
@@ -118,7 +118,7 @@ Hic quoque mensis habet dubias in nomine causas:
 
  
 
-1. H K : IVN : N    100a 
+### 1. H K : IVN : N    100a 
 
  
 
@@ -225,7 +225,7 @@ Hic quoque mensis habet dubias in nomine causas:
 
  
 
-2. A F    196a 
+### 2. A F    196a 
 
  
 
@@ -238,7 +238,7 @@ Hic quoque mensis habet dubias in nomine causas:
 
  
 
-3. B C    198a 
+### 3. B C    198a 
 
  
 
@@ -259,7 +259,7 @@ Hic quoque mensis habet dubias in nomine causas:
 
  
 
-4. C C    208a 
+### 4. C C    208a 
 
  
 
@@ -274,7 +274,7 @@ Hic quoque mensis habet dubias in nomine causas:
 
  
 
-5. D NON : N    212a 
+### 5. D NON : N    212a 
 
  
 
@@ -291,7 +291,7 @@ Hic quoque mensis habet dubias in nomine causas:
 
  
 
-6. E N    218a 
+### 6. E N    218a 
 
  
 
@@ -318,7 +318,7 @@ Est mihi, sitque, precor, nostris diuturnior annis,
 
  
  
-7. F N    234a 
+### 7. F N    234a 
 
  
 
@@ -335,7 +335,7 @@ Est mihi, sitque, precor, nostris diuturnior annis,
 
  
 
-8. G N    240a 
+### 8. G N    240a 
 
  
 
@@ -354,7 +354,7 @@ Est mihi, sitque, precor, nostris diuturnior annis,
 
  
 
-9. H VEST : N    248a 
+### 9. H VEST : N    248a 
 
  
 
@@ -585,7 +585,7 @@ Est mihi, sitque, precor, nostris diuturnior annis,
 
  
 
-10. A N    468a 
+### 10. A N    468a 
 
  
 
@@ -600,7 +600,7 @@ Est mihi, sitque, precor, nostris diuturnior annis,
 
  
 
-11. B MATR : N vel NP    472a 
+### 11. B MATR : N vel NP    472a 
 
  
 
@@ -787,7 +787,7 @@ Est mihi, sitque, precor, nostris diuturnior annis,
 
  
 
-12. C N 13. D EID : NP ut vid.    648a 
+### 12. C N 13. D EID : NP ut vid.    648a 
 
  
 
@@ -860,7 +860,7 @@ Est mihi, sitque, precor, nostris diuturnior annis,
 
  
 
-(14. E EN) 15. F Q : ST : D : F    710a 
+### (14. E EN) 15. F Q : ST : D : F    710a 
 
  
 
@@ -875,7 +875,7 @@ Est mihi, sitque, precor, nostris diuturnior annis,
 
  
 
-16. G C    714a 
+### 16. G C    714a 
 
  
 
@@ -888,7 +888,7 @@ Est mihi, sitque, precor, nostris diuturnior annis,
 
  
 
-17. H C 18. A C    716a 
+### 17. H C 18. A C    716a 
 
  
 
@@ -907,7 +907,7 @@ Est mihi, sitque, precor, nostris diuturnior annis,
 
  
 
-19. B C    724a 
+### 19. B C    724a 
 
  
 
@@ -922,7 +922,7 @@ Est mihi, sitque, precor, nostris diuturnior annis,
 
  
 
-20. C C    728a 
+### 20. C C    728a 
 
  
 
@@ -937,7 +937,7 @@ Est mihi, sitque, precor, nostris diuturnior annis,
 
  
 
-21. D C    732a 
+### 21. D C    732a 
 
  
 
@@ -978,7 +978,7 @@ Est mihi, sitque, precor, nostris diuturnior annis,
 
  
 
-22. E C 23. F C    762a 
+### 22. E C 23. F C    762a 
 
  
 
@@ -997,7 +997,7 @@ Est mihi, sitque, precor, nostris diuturnior annis,
 
  
 
-24. G C    770a 
+### 24. G C    770a 
 
  
 
@@ -1022,7 +1022,7 @@ Est mihi, sitque, precor, nostris diuturnior annis,
 
  
 
-25. H C 26. A C, postea NP    784a 
+### 25. H C 26. A C, postea NP    784a 
 
  
 
@@ -1039,7 +1039,7 @@ Est mihi, sitque, precor, nostris diuturnior annis,
 
  
 
-27. B C 28. C C    790a 
+### 27. B C 28. C C    790a 
 
  
 
@@ -1054,7 +1054,7 @@ Est mihi, sitque, precor, nostris diuturnior annis,
 
  
 
-29. D F    794a 
+### 29. D F    794a 
 
  
 
@@ -1067,7 +1067,7 @@ Est mihi, sitque, precor, nostris diuturnior annis,
 
  
 
-30. E C    796a 
+### 30. E C    796a 
 
  
 
